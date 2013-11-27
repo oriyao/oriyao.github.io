@@ -1,79 +1,123 @@
 /* --- Awwwards Ribbons --- */
 
+
 /* Base */
 
+
 #awwwards {
+
 	position:fixed;
+
 	top:40px;
+
 	z-index:9999;
 }
 
+
 /* Left */
 
+
 #awwwards.left {
+
 	left:0;
 }
 
+
 /* Right */
 
+
 #awwwards.right {
+
 	right:0;
 }
 
+
 /* Link */
 
+
 #awwwards a {
+
 	display:block;
+
 	width:70px;
+
 	height:105px;
+
 	text-indent:-8000px;
+
 	background-repeat:no-repeat;
+
 	background-position: 0 0;
+
 	overflow:hidden;
 }
 
+
 /* Black */
 
+
 #awwwards.left.black a {
+
 	background-image:url('ribbons/awwwards_sotd_black_left.png');
 }
+
 #awwwards.right.black a {
+
 	background-image:url('ribbons/awwwards_sotd_black_right.png');
 }
 
+
 /* White */
 
+
 #awwwards.left.white a {
+
 	background-image:url('ribbons/awwwards_sotd_white_left.png');
 }
+
 #awwwards.right.white a {
+
 	background-image:url('ribbons/awwwards_sotd_white_right.png');
 }
 
+
 /* Green */
 
+
 #awwwards.left.green a {
+
 	background-image:url('ribbons/awwwards_sotd_green_left.png');
 }
+
 #awwwards.right.green a {
+
 	background-image:url('ribbons/awwwards_sotd_green_right.png');
 }
 
 
+
 /* MEDIA QUERIES */
+
 
 /* Landscape phone to portrait tablet */
 
+
 @media (max-width: 767px) {
 
-	/* hidden */
-	#awwwards {
+
+
+/* hidden */
+
+#awwwards {
+
 		display: none;
 	}
 
 }
 
+
 /* Retina Displays */
+
 
 /* Target any device with retina display (ie iPad 3 and MacBook Pro) */
 
@@ -83,39 +127,63 @@ only screen and (-moz-min-device-pixel-ratio: 1.5),
 only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min-device-pixel-ratio: 1.5) {
 
-	#awwwards a {
+	
+#awwwards a {
+
 		-moz-background-size: 70px 105px;
+
 		-ie-background-size:70px 105px;
+
 		-o-background-size:70px 105px;
+
 		-webkit-background-size:70px 105px;
+
 		background-size:70px 105px;
+
 	}
 
-	/* Gray */
+	
+/* Gray */
 
-	#awwwards.left.black a {
+
+#awwwards.left.black a {
+
 		background-image:url('ribbons/awwwards_sotd_black_left2x.png');
 	}
-	#awwwards.right.black a {
+	
+#awwwards.right.black a {
+
 		background-image:url('ribbons/awwwards_sotd_black_right2x.png');
+
 	}
 
-	/* White */
+	
+/* White */
 
-	#awwwards.left.white a {
+	
+#awwwards.left.white a {
+
 		background-image:url('ribbons/awwwards_sotd_white_left2x.png');
 	}
-	#awwwards.right.white a {
-		background-image:url('ribbons/awwwards_sotd_white_right2x.png');
-	}
 
-	/* Green */
+#awwwards.right.white a {
 
-	#awwwards.left.green a {
+		background-image:url('ribbons/awwwards_sotd_white_right2x.png');}
+
+	
+/* Green */
+
+	
+#awwwards.left.green a {
+
 		background-image:url('ribbons/awwwards_sotd_green_left2x.png');
 	}
-	#awwwards.right.green a {
+	
+#awwwards.right.green a {
+
 		background-image:url('ribbons/awwwards_sotd_green_right2x.png');
+
 	}
+
 	
 }
