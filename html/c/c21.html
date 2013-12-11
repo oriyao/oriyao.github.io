@@ -99,8 +99,17 @@
 		</div>
 		<div>
 
-			<p></p>
-			<code>FILE* file;</code>
+			<p>/*定义文件类型指针file1*/</p>
+			<p>FILE* file1;</p>
+			<p>/*以rb方式打开ML路径下的15.txt文档*/</p>
+			<p>file1=fopen("/users/ML/15.txt","rb");</p>
+			<p>/*从文件file1中以lf数据类型读取值赋予a*/</p>
+			<p>fscanf(file1,"%lf",&a);</p>
+			<p>/*关闭文档*/</p>
+			<p>fclose(file1);</p>
+
+
+
 
 		</div>
 
