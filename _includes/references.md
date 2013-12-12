@@ -13,3 +13,4 @@
 [jslib-builder]: http://github.com/elfjs/jslib-builder/
 [Markdown]: http://daringfireball.net/projects/markdown/
 [WordPress]: http://wordpress.org/
+[oriyao]: http://www.oriyao.com/

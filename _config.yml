@@ -11,6 +11,7 @@ exclude:
 custom:
     category:
         c: C 语言
+        film: 影视
         mooc: MOOC
         nba: NBA
         website: Website
@@ -21,6 +22,9 @@ custom:
         
       - name:  c
         title: C 语言
+        
+      - name:  film
+        title: 影视
         
       - name:  mooc
         title: MOOC
