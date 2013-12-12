@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 像黑客一样写自己的技术博客
+title: Hello World!
 category: website
 ---
-hello
+2013年12月12日
