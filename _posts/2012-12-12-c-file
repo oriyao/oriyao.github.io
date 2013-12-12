@@ -1,0 +1,11 @@
+---
+layout: post
+title: 从文件读取数据
+category: c
+---
+
+分少了这么一句话：
+
+    NameVirtualHost *
+    FILE *file
+其实遭遇过很多次这个问题
