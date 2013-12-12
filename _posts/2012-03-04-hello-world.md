@@ -1,24 +1,29 @@
----
+﻿---
 layout: post
 title: Hello world!
-category: default
+category: website
 ---
+2012年12月12日：
+The Xi'an Incident is also called the “Double-Twelfth Incident”.
+淘宝又发彩票又红包的。
+这都不重要，
+重要的是：我的网站上线一个月来首次改版了！
+从传统的手工HTML逐行编写，到Jekyll的使用，这是突破性的一步。
 
-这是一篇测试文章，你可以在`_posts`目录修改或删除它。
+现在开始，我可以忘记HTML，忘记CSS，专注在内容上的加载，至于到底想放入些什么，我还不知道。
 
-现在，我可以：
-
+已完成的事情：
 * 使用纯文本的[Markdown]编辑文章
-* 使用git维护文章的版本
+* 使用github维护文章的版本
 * 不用租一个虚拟空间和数据库服务，而就在[GitHub]上托管整个网站
-* 自定义域名指向
+* 万网购入域名，自定义域名指向www.oriyao.com
+
+准备要完成的事情：
 * 使用[Disqus]的云评论服务
-* 一如既往的使用[Google Picasa]作为我的图片外链服务
+* 使用[Google Picasa]作为图片外链服务
 * 用[Google Custom Search]自定义站内搜索
-* [jekyll]自带的或者用[HighlightJS]做代码高亮
-* [Gravatar]统一头像标识服务
 * ……
 
-感谢这个有云的时代！可以让我们通过一件件简单的工具打造属于每个程序员自己的站点，[像黑客一样写博客](http://kyle.xlau.org/posts/blogging-like-a-hacker.html)（原文：[Blogging Like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)）。
+感谢这个开源的时代！
 
 {% include references.md %}
