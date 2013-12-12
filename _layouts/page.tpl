@@ -41,7 +41,7 @@
 	<div class="block block-about">
 		<h3>About</h3>
 		<figure>
-			<img src="http://tp4.sinaimg.cn/1901280251/180/5679532358/1" />
+			<a href="http://weibo.com/914502294/home?wvr=5&c=spr_qdhz_bd_baidusmt_weibo_s"><img src="http://tp4.sinaimg.cn/1901280251/180/5679532358/1" /></a>
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
 		<p>Oriyao's life.</p>
