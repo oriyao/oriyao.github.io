@@ -35,4 +35,7 @@ meta:
         name: oriyao
         email: ylzhangyao@gmail.com
         github: oriyao
-
+comments :
+    provider : duoshuo
+    duoshuo : 
+    short_name : oriyao
