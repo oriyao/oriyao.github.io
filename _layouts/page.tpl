@@ -17,7 +17,20 @@
 
 <div class="main">
 	{{ content }}
-
+<!-- Duoshuo Comment BEGIN -->
+<div class="ds-thread"></div>
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"oriyao"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		|| document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- Duoshuo Comment END -->
 	<footer>
 		<p>&copy; Since 1988</p>
 	</footer>
@@ -141,19 +154,5 @@ site.VAR_GOOGLE_CUSTOM_SEARCH_ID = '{{ site.meta.author.gcse }}';
 site.TPL_SEARCH_TITLE = '#{0} / 搜索：#{1}';
 site.VAR_AUTO_LOAD_ON_SCROLL = {{ site.custom.scrollingLoadCount }};
 </script>
-<!-- Duoshuo Comment BEGIN -->
-<div class="ds-thread"></div>
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"oriyao"};
-	(function() {
-		var ds = document.createElement('script');
-		ds.type = 'text/javascript';ds.async = true;
-		ds.src = 'http://static.duoshuo.com/embed.js';
-		ds.charset = 'UTF-8';
-		(document.getElementsByTagName('head')[0] 
-		|| document.getElementsByTagName('body')[0]).appendChild(ds);
-	})();
-	</script>
-<!-- Duoshuo Comment END -->
 </body>
 </html>
