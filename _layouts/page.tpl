@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8" />
@@ -41,10 +41,10 @@
 	<div class="block block-about">
 		<h3>About</h3>
 		<figure>
-			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
+			{% if site.meta.author.gravatar %}<img src="http://tp4.sinaimg.cn/1901280251/180/5679532358/1" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
-		<p>Write something about yourself.</p>
+		<p>Oriyao's life.</p>
 	</div>
 	
 	<div class="block block-license">
