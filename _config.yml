@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: ORIYAO
 markdown: kramdown
 pygments: true
 safe: false
@@ -29,6 +29,5 @@ meta:
     author:
         name: oriyao
         email: ylzhangyao@gmail.com
-        disqus: your-disqus-short-name
         github: oriyao
 
