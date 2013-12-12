@@ -1,4 +1,4 @@
-﻿---
+---
 layout:post
 title:First Blog!
 category: website
