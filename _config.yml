@@ -10,12 +10,12 @@ exclude:
 
 custom:
     category:
-        book: 读书
+        book: BOOK 读书
         c: C 语言
-        film: 影视
-        mooc: MOOC
-        nba: NBA
-        website: Website
+        film: FILM 影视
+        mooc: MOOC 公开课
+        nba: NBA 篮球
+        website: Website 网站相关
         
     categories:
       - name:  book
