@@ -19,7 +19,10 @@ custom:
       - name:  another
         title: Another Category
 
-    scrollingLoadCount: 2
+      - name:  another
+        title: Another Category
+
+    scrollingLoadCount: 0
 
 meta:
     author:
