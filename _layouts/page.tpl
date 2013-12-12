@@ -68,7 +68,6 @@ var duoshuoQuery = {short_name:"oriyao"};
 	<div class="block block-thank">
 		<h3>Powered by</h3>
 		<p>
-			<a href="http://disqus.com/" target="_blank">Disqus</a>,
 			<a href="https://github.com/" target="_blank">GitHub</a>,
 			<a href="http://www.google.com/cse/" target="_blank">Google Custom Search</a>,
 			<a href="https://github.com/mojombo/jekyll" target="_blank">jekyll</a>,
