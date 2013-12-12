@@ -12,6 +12,7 @@ custom:
     category:
         default: Default Category
         another: Another Category
+        nba: NBA
     categories:
       - name:  default
         title: Default Category
@@ -19,8 +20,8 @@ custom:
       - name:  another
         title: Another Category
 
-      - name:  another
-        title: Another Category
+      - name:  nba
+        title: NBA
 
     scrollingLoadCount: 0
 
