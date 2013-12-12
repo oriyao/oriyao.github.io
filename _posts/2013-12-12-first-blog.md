@@ -1,7 +1,6 @@
 ---
-layout:post
-title:First Blog!
+layout: post
+title: 像黑客一样写自己的技术博客
 category: website
 ---
-2012年12月12日
-{% include references.md %}
+hello
