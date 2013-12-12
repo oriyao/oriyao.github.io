@@ -25,7 +25,7 @@ The Xi'an Incident is also called the “Double-Twelfth Incident”.
 
 * 不用租一个虚拟空间和数据库服务，而就在[GitHub]上托管整个网站
 
-* 万网购入域名，自定义域名指向www.oriyao.com
+* 万网购入域名，自定义域名指向[www.oriyao.com](www.oriyao.com)
 
 * 中文字符的输入
 

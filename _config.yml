@@ -10,6 +10,7 @@ exclude:
 
 custom:
     category:
+        book: 读书
         c: C 语言
         film: 影视
         mooc: MOOC
@@ -17,20 +18,23 @@ custom:
         website: Website
         
     categories:
-      - name:  website
-        title: WebSite
-        
-      - name:  c
+      - name:  book
+        title: 读书
+
+      - name: c
         title: C 语言
         
-      - name:  film
+      - name: film
         title: 影视
         
-      - name:  mooc
+      - name: mooc
         title: MOOC
 
-      - name:  nba
+      - name: nba
         title: NBA
+        
+      - name:  website
+        title: WebSite
 
     scrollingLoadCount: 1
 
