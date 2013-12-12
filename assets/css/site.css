@@ -1,4 +1,4 @@
-*{box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
+﻿*{box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
 html,body,h1,h2,h3,h4,h5,h6,ul,ol,li,p,form,dl,dt,dd,figure{margin:0; padding:0; border:0;}
 body{line-height:1.6em; font-family:Helvetica, Arial, sans-serif; color:#555;}
 a{margin:0 2px; color:#06c; text-decoration:none;}
@@ -52,6 +52,10 @@ aside .block-about figcaption{margin:0.2em 0;}
 aside .block-about figcaption:after{content:'<your-email@example.com>'; padding-left:.5em; color: #bbb; font-weight:bold; opacity: 0; transition:opacity .5s; -moz-transition:opacity .5s; -webkit-transition:opacity .5s;}
 aside .block-about:hover figcaption:after{opacity: 1;}
 aside .block-fork{position: absolute; top:0; right:0; margin: 0;}
+
+
+aside .mobNav{position: fixed; top:0; right:0; margin: 0; display: block; font-size: 20px; color: #888; background-color: #1d1d1d; opacity: 0.15; max-height: 100%; z-index: 20; transition: 0.6s; -webkit-transition: ease-in-out 0.6s; -moz-transition: 0.6s;}
+
 
 footer p{color:#aaa; font-size:75%; line-height:1.6em;}
 
