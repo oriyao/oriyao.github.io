@@ -41,7 +41,7 @@
 	<div class="block block-about">
 		<h3>About</h3>
 		<figure>
-			{% if site.meta.author.gravatar %}<img src="http://tp4.sinaimg.cn/1901280251/180/5679532358/1" />{% endif %}
+			<img src="http://tp4.sinaimg.cn/1901280251/180/5679532358/1" />
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
 		<p>Oriyao's life.</p>
