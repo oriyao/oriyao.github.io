@@ -52,22 +52,12 @@
 		<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/cn/" target="_blank" class="hide-target-icon" title="Copyright declaration of site content"><img alt="知识共享许可协议" src="http://i.creativecommons.org/l/by-nc-nd/2.5/cn/88x31.png" /></a></p>
 	</div>
 	
-	{% if site.meta.author.github %}
-	<div class="block block-fork">
-		<a href="https://github.com/{{ site.meta.author.github }}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork oriyao on GitHub"></a>
-	</div>
-	{% endif %}
-
-	
 	<div class="block block-thank">
 		<h3>Powered by</h3>
 		<p>
 			<a href="http://disqus.com/" target="_blank">Disqus</a>,
-			<a href="http://elfjs.com/" target="_blank">elf+js</a>,
 			<a href="https://github.com/" target="_blank">GitHub</a>,
 			<a href="http://www.google.com/cse/" target="_blank">Google Custom Search</a>,
-			<a href="http://en.gravatar.com/" target="_blank">Gravatar</a>,
-			<a href="http://softwaremaniacs.org/soft/highlight/en/">HighlightJS</a>,
 			<a href="https://github.com/mojombo/jekyll" target="_blank">jekyll</a>,
 			<a href="https://github.com/mytharcher/SimpleGray" target="_blank">SimpleGray</a>
 		</p>
