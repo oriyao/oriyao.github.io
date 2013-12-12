@@ -14,8 +14,8 @@ custom:
         another: Another Category
         nba: NBA
     categories:
-      - name:  default
-        title: Default Category
+      - name:  website
+        title: WebSite
 
       - name:  another
         title: Another Category
