@@ -10,7 +10,7 @@ exclude:
 
 custom:
     category:
-        website: WebSite
+        website: Website
         another: Another Category
         nba: NBA
     categories:
