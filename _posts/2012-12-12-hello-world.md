@@ -26,5 +26,5 @@ The Xi'an Incident is also called the “Double-Twelfth Incident”.
 * ……
 
 感谢这个开源的时代！
-
+[欢迎关注我的微博](http://weibo.com/914502294/home?wvr=5&c=spr_qdhz_bd_baidusmt_weibo_s)
 {% include references.md %}
