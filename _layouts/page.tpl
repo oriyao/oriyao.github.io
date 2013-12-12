@@ -58,6 +58,22 @@
 	</div>
 	{% endif %}
 
+	
+	<div class="block block-thank">
+		<h3>Powered by</h3>
+		<p>
+			<a href="http://disqus.com/" target="_blank">Disqus</a>,
+			<a href="http://elfjs.com/" target="_blank">elf+js</a>,
+			<a href="https://github.com/" target="_blank">GitHub</a>,
+			<a href="http://www.google.com/cse/" target="_blank">Google Custom Search</a>,
+			<a href="http://en.gravatar.com/" target="_blank">Gravatar</a>,
+			<a href="http://softwaremaniacs.org/soft/highlight/en/">HighlightJS</a>,
+			<a href="https://github.com/mojombo/jekyll" target="_blank">jekyll</a>,
+			<a href="https://github.com/mytharcher/SimpleGray" target="_blank">SimpleGray</a>
+		</p>
+	</div>
+</aside>
+
 	<div class="mobNav" style="max-height: 100%;">
 
 	    <ul>
@@ -117,21 +133,8 @@
 	    </ul>
 
 	</div>
-	
-	<div class="block block-thank">
-		<h3>Powered by</h3>
-		<p>
-			<a href="http://disqus.com/" target="_blank">Disqus</a>,
-			<a href="http://elfjs.com/" target="_blank">elf+js</a>,
-			<a href="https://github.com/" target="_blank">GitHub</a>,
-			<a href="http://www.google.com/cse/" target="_blank">Google Custom Search</a>,
-			<a href="http://en.gravatar.com/" target="_blank">Gravatar</a>,
-			<a href="http://softwaremaniacs.org/soft/highlight/en/">HighlightJS</a>,
-			<a href="https://github.com/mojombo/jekyll" target="_blank">jekyll</a>,
-			<a href="https://github.com/mytharcher/SimpleGray" target="_blank">SimpleGray</a>
-		</p>
-	</div>
-</aside>
+
+
 
 <script src="http://cdn.elfjs.com/code/elf-0.4.1-min.js"></script>
 <script src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>

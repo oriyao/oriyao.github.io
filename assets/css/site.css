@@ -54,14 +54,14 @@ aside .block-about:hover figcaption:after{opacity: 1;}
 aside .block-fork{position: absolute; top:0; right:0; margin: 0;}
 
 
-aside .mobNav{position: fixed; top:0; right:0; margin: 0; display: block; font-size: 20px; color: #888; background-color: #1d1d1d; opacity: 0.15; max-height: 100%; z-index: 20; transition: 0.6s; -webkit-transition: ease-in-out 0.6s; -moz-transition: 0.6s;}
-aside .mobNav li a {position:relative; z-index:1; display:block; padding: 3px 8px;}
-aside .mobNav::-webkit-scrollbar { display: none;}
-aside .mobNav:hover {overflow-y: auto; color: #eee; opacity: 1; transition: 0.6s; -webkit-transition: ease-in-out 0.6s; -moz-transition: 0.6s; cursor: pointer;}
-aside .mobNav li {display: list-item; text-align: center;}
-aside .mobNav li a:hover {color:inherit;}
-aside .mobNav li a.hover {background:rgba(0,0,0,.1); color: #94C0E9;}
-aside .mobNav li a:active {background:rgba(0,0,0,.25);}
+.mobNav{position: fixed; top:0; right:0; margin: 0; display: block; font-size: 20px; color: #888; background-color: #1d1d1d; opacity: 0.15; max-height: 100%; z-index: 20; transition: 0.6s; -webkit-transition: ease-in-out 0.6s; -moz-transition: 0.6s;}
+.mobNav li a {position:relative; z-index:1; display:block; padding: 3px 8px;}
+.mobNav::-webkit-scrollbar { display: none;}
+.mobNav:hover {overflow-y: auto; color: #eee; opacity: 1; transition: 0.6s; -webkit-transition: ease-in-out 0.6s; -moz-transition: 0.6s; cursor: pointer;}
+.mobNav li {display: list-item; text-align: center;}
+.mobNav li a:hover {color:inherit;}
+.mobNav li a.hover {background:rgba(0,0,0,.1); color: #94C0E9;}
+.mobNav li a:active {background:rgba(0,0,0,.25);}
 
 
 
