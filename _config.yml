@@ -13,17 +13,21 @@ custom:
         website: Website
         another: Another Category
         nba: NBA
+        c: C 语言
     categories:
       - name:  website
         title: WebSite
-
+        
+      - name:  c
+        title: C 语言
+        
       - name:  another
         title: Another Category
 
       - name:  nba
         title: NBA
 
-    scrollingLoadCount: 0
+    scrollingLoadCount: 1
 
 meta:
     author:
