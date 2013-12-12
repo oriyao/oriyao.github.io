@@ -29,9 +29,10 @@ The Xi'an Incident is also called the “Double-Twelfth Incident”.
 
 * 中文字符的输入
 
+* 使用多说的云评论服务
+
 准备要完成的事情：
 
-* 使用[Disqus]的云评论服务
 
 * 使用[Google Picasa]作为图片外链服务
 
