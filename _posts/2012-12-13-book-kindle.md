@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: KINDLE
 category: book
@@ -32,6 +32,6 @@ category: book
 
 亚马逊KP是6寸，虽然我更想要一个9.7寸的看扫描版PDF，奈何亚马逊不出新的，当然没钱是主要制约因素。
 
-<img src="http://c.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=d1b1efc760d9f2d3341c2cbdc885e176/8d5494eef01f3a2987b005e89b25bc315d6034a85edf5ca0.jpg">
+<img src="http://f.hiphotos.bdimg.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=db278a1dd309b3deefbfe46dfc841dbc/9358d109b3de9c825c31d4fa6e81800a19d8436a.jpg?referer=4e94e4469045d688fa158794ad28&x=.jpg">
 
 
