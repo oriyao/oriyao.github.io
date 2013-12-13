@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+﻿@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 /**
  * Default theme for reveal.js.
  *
@@ -149,70 +149,6 @@ body {
 
 
 
-*{box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
-html,body,h1,h2,h3,h4,h5,h6,ul,ol,li,p,form,dl,dt,dd,figure{margin:0; padding:0; border:0;}
-
-a{margin:0 2px; color:#06c; text-decoration:none;}
-a:hover{text-decoration:underline;}
-h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{margin:0;}
-img{border:0;}
-input,textarea{resize:none;}
-
-@media screen and (min-width:1024px) {
-	.main{
-		position:relative; zoom:1;
-		width:62%;
-		padding:2em 3em;
-	}
-	aside{
-		position:fixed;
-		left:62%;
-		top:0;
-		right:0;
-		height:100%;
-		overflow:hidden;
-		padding:2em 3em;
-		box-shadow:5px 0 5px rgba(0,0,0,.1) inset;
-	}
-}
-
-@media screen and (max-width: 1023px) {
-	.main{
-		padding: 1em;
-	}
-	aside{
-		padding: 1em;
-	}
-}
-
-header{font-size:80%;}
-header h1 .minor{color:#999; font-weight:normal;}
-header .additional{font-size:90%; color:#ccc;}
-
-aside{background:#eee; font-size:75%;}
-aside h2{margin:1em 0;}
-aside .feed-link{margin-left:0.5em;}
-aside nav ul{list-style:none; line-height:1.5em;}
-aside nav li:before{content:"> "; font:normal 80%/1em "����"; margin:0 .3em; color: #999;}
-aside .block{max-width:300px; margin:1.5em 0; line-height:1.5em;}
-aside .block h3{margin:.5em 0;}
-aside .block a{margin:0;}
-aside .block-about p{margin:0.5em 0; color:#999;}
-aside .block-about figure img{border-radius:2px;}
-aside .block-about figcaption{margin:0.2em 0;}
-aside .block-about figcaption:after{content:'<your-email@example.com>'; padding-left:.5em; color: #bbb; font-weight:bold; opacity: 0; transition:opacity .5s; -moz-transition:opacity .5s; -webkit-transition:opacity .5s;}
-aside .block-about:hover figcaption:after{opacity: 1;}
-aside .block-fork{position: absolute; top:0; right:0; margin: 0;}
-
-
-.mobNav{position: fixed; top:0; right:0; margin: 0; display: block; font-size: 20px; color: #888; background-color: #1d1d1d; opacity: 0.15; max-height: 100%; z-index: 20; transition: 0.6s; -webkit-transition: ease-in-out 0.6s; -moz-transition: 0.6s;}
-.mobNav li a {position:relative; z-index:1; display:block; padding: 3px 8px;}
-.mobNav::-webkit-scrollbar { display: none;}
-.mobNav:hover {overflow-y: auto; color: #eee; opacity: 1; transition: 0.6s; -webkit-transition: ease-in-out 0.6s; -moz-transition: 0.6s; cursor: pointer;}
-.mobNav li {display: list-item; text-align: center;}
-.mobNav li a:hover {color:inherit;}
-.mobNav li a.hover {background:rgba(0,0,0,.1); color: #94C0E9;}
-.mobNav li a:active {background:rgba(0,0,0,.25);}
 
 
 

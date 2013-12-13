@@ -1,7 +1,6 @@
 <!doctype html>
-<html lang="zh">
+<html lang="en">
 <head>
-
     <meta charset="utf-8">
     <title>reveal.js - The HTML Presentation Framework</title>
     <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
@@ -25,10 +24,9 @@
 		<![endif]-->
 </head>
 
+	<body>
 
-<body>
-
-	<div class="reveal">
+		<div class="reveal">
 
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
@@ -272,12 +270,17 @@ function linkify( selector ) {
 
 		</script>
 <aside>
-	<h2><a href="/">{{ site.name }}</a><a href="/feed.xml" class="feed-link" title="Subscribe"><img src="http://blog.rexsong.com/wp-content/themes/rexsong/icon_feed.gif" alt="RSS feed" /></a></h2>
+	<h2><a href="/">ORIYAO</a><a href="/feed.xml" class="feed-link" title="Subscribe"><img src="http://blog.rexsong.com/wp-content/themes/rexsong/icon_feed.gif" alt="RSS feed" /></a></h2>
 	
 	<nav class="block">
 		<ul>
-		{% for category in site.custom.categories %}<li class="{{ category.name }}"><a href="/category/{{ category.name }}/">{{ category.title }}</a></li>
-		{% endfor %}
+		<li class="book"><a href="/category/book/">读书</a></li>
+		<li class="c"><a href="/category/c/">C 语言</a></li>
+		<li class="film"><a href="/category/film/">影视</a></li>
+		<li class="mooc"><a href="/category/mooc/">MOOC</a></li>
+		<li class="nba"><a href="/category/nba/">NBA</a></li>
+		<li class="website"><a href="/category/website/">WebSite</a></li>
+		
 		</ul>
 	</nav>
 	
@@ -285,27 +288,10 @@ function linkify( selector ) {
 		<h3>About</h3>
 		<figure>
 			<a href="http://weibo.com/914502294/home?wvr=5&c=spr_qdhz_bd_baidusmt_weibo_s"><img src="http://tp4.sinaimg.cn/1901280251/180/5679532358/1" /></a>
-			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
+			<figcaption><strong>oriyao</strong></figcaption>
 		</figure>
 		<p>Oriyao's life.</p>
 	</div>
 </aside>
-
-
-<script src="http://cdn.elfjs.com/code/elf-0.4.1-min.js"></script>
-<script src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>
-
-<script src="/assets/js/site.js"></script>
-{% for script in page.scripts %}<script src="{{ script }}"></script>
-{% endfor %}
-<script>
-site.URL_GOOGLE_API = '{{site.meta.gapi}}';
-site.URL_DISCUS_COMMENT = '{{ site.meta.author.disqus }}' ? 'http://{{ site.meta.author.disqus }}.{{ site.meta.disqus }}' : '';
-
-site.VAR_SITE_NAME = '{{ site.name }}';
-site.VAR_GOOGLE_CUSTOM_SEARCH_ID = '{{ site.meta.author.gcse }}';
-site.TPL_SEARCH_TITLE = '#{0} / 搜索：#{1}';
-site.VAR_AUTO_LOAD_ON_SCROLL = {{ site.custom.scrollingLoadCount }};
-</script>
-</body>
+	</body>
 </html>
