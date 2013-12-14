@@ -32,6 +32,8 @@ category: book
 
 亚马逊KP是6寸，虽然我更想要一个9.7寸的看扫描版PDF，奈何亚马逊不出新的，当然没钱是主要制约因素。
 
-<img src="http://f.hiphotos.bdimg.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=db278a1dd309b3deefbfe46dfc841dbc/9358d109b3de9c825c31d4fa6e81800a19d8436a.jpg?referer=4e94e4469045d688fa158794ad28&x=.jpg">
-<img src="http://bwlgu.img38.wal8.com/img38/394284_20131214094947/138698591735.gif">
-<img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/lazycat.gif">
+<img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/mykindlepaperwhite.jpg">
+本人接触的第一台E-INK电纸书是盛大的Bambook，系统之恶劣，售后之可耻，难于言表，但也初步体现出那么一点点ink的优势，
+也是因为这点优势，让我去了解更多，去尝试kindle然后脑残粉之。。。
+<img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/bambook.jpg">
+
