@@ -10,7 +10,7 @@ category: book
 
 对于住校的学生，或者蜗居东西南北漂的青年，往往头痛于积攒下的书籍置无可置之处。。。
 
-自从接触到[Kindle](www.amazon.cn)之后，尤其是KP(kindle paperwhite)的发布，可谓久旱逢甘霖，外加上[多看](http://www.duokan.com/)的精美排版书籍，
+自从接触到[Kindle](http://www.amazon.cn)之后，尤其是KP(kindle paperwhite)的发布，可谓久旱逢甘霖，外加上[多看](http://www.duokan.com/)的精美排版书籍，
 [狗耳朵](http://dogear.cn/)的订阅服务，一举斩获传统书籍所不能包含的各种好处，同时，保留了不伤眼的好处。
 
 
