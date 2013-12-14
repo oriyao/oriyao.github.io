@@ -75,71 +75,8 @@ var duoshuoQuery = {short_name:"oriyao"};
 		</p>
 	</div>
 </aside>
-
-	<div class="mobNav" style="max-height: 100%;">
-
-	    <ul>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/a.html">A</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/b.html">B</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/c.html">C</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/d.html">D</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/e.html">E</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/f.html">F</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/g.html">G</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/h.html">H</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/i.html">I</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/j.html">J</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/k.html">K</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/l.html">L</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/m.html">M</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/n.html">N</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/o.html">O</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/p.html">P</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/q.html">Q</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/r.html">R</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/s.html">S</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/t.html">T</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/u.html">U</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/v.html">V</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/w.html">W</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/x.html">X</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/y.html">Y</a></li>
-
-	    	<li><a class="scroll" href="http://www.oriyao.com/0.1/html/z.html">Z</a></li>
-
-	    </ul>
-
-	</div>
-
-
-
-<script src="http://cdn.elfjs.com/code/elf-0.4.1-min.js"></script>
-<script src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>
+<script src="/js/elf-0.4.1-min.js"></script>
+<script src="/js/highlight.min.js"></script>
 
 <script src="/assets/js/site.js"></script>
 {% for script in page.scripts %}<script src="{{ script }}"></script>
