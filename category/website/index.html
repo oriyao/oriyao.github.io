@@ -2,13 +2,12 @@
 layout: list
 title:  WebSite
 ---
-{% assign list = site.categories.website %}
-{% assign preview = true %}
+
 
 <div>
 	<table style="text-align:center">
 		<thead>
-            <th colspan="4" style="text-align:center;font-family:Algerian"><strong>Wonderful Website</strong></th>
+            <th colspan="4" style="text-align:center;font-family:Algerian"><strong></strong></th>
 		</thead>
 		<tbody style="text-align:center">
             <tr>
@@ -27,5 +26,6 @@ title:  WebSite
 	</table>
 </div>
 
-
+{% assign list = site.categories.website %}
+{% assign preview = true %}
 {% include list.tpl %}
