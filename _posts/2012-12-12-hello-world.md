@@ -33,7 +33,7 @@ The Xi'an Incident is also called the “Double-Twelfth Incident”.
 
 * 使用多说的云评论服务
 
-* 使用[aliyun OSS]作为图片外链服务
+* 使用[aliyun OSS](http://aliyun.com/)作为图片外链服务
 
 准备要完成的事情：
 
