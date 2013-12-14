@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KINDLE
+title: 工欲善其事,必先利其器
 category: book
 ---
 
@@ -9,6 +9,12 @@ category: book
 读书也一样，虽然人说书非借不能读，可藏书的癖好大多是不可避了。
 
 对于住校的学生，或者蜗居东西南北漂的青年，往往头痛于积攒下的书籍置无可置之处。。。
+
+实体书的事就先不说了，无非是三杯两盏浓茶，四五六片糕点，加上斜45度的阳光，整个一文艺装。
+
+鉴于屌丝喜欢的地方是阴暗潮湿角落，背靠卷起的铺盖或者枕头，双手端起手机/平板/笔记本/显示器（有点大）做痴迷状。
+
+在这里，首先出场的是第一眼以为是模型其实是屏幕的读书神奇：KINDLE，提一下，Kindle不能听歌！也不能看视频！
 
 自从接触到[Kindle](http://www.amazon.cn)之后，尤其是KP(kindle paperwhite)的发布，可谓久旱逢甘霖，外加上[多看](http://www.duokan.com/)的精美排版书籍，
 [狗耳朵](http://dogear.cn/)的订阅服务，一举斩获传统书籍所不能包含的各种好处，同时，保留了不伤眼的好处。
@@ -33,6 +39,7 @@ category: book
 亚马逊KP是6寸，虽然我更想要一个9.7寸的看扫描版PDF，奈何亚马逊不出新的，当然没钱是主要制约因素。
 
 <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/mykindlepaperwhite.jpg">
+
 本人接触的第一台E-INK电纸书是盛大的Bambook，系统之恶劣，售后之可耻，难于言表，但也初步体现出那么一点点ink的优势，
 也是因为这点优势，让我去了解更多，去尝试kindle然后脑残粉之。。。
 <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/bambook.jpg">
