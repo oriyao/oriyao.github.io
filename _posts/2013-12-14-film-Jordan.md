@@ -36,7 +36,7 @@ category: film
 
 
 
-<img style="align: center" src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/Michael%20Jordan%20To%20The%20Max1.jpg">
+<img style="align: center" src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/Michael%20Jordan%20To%20The%20Max1.jpg" width="100%">
 
 [ge84](http://pan.baidu.com/s/1qxMp4)
 
