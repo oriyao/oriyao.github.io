@@ -31,6 +31,6 @@ Director Evan Jackson Leong embarked on this documentary before Jeremy Lin was a
 
 <img style="text-align:center" src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/linsanity%20%281%29.jpg">
 
-[你懂得](http://pan.baidu.com/s/1y2Fwb)
+[wxgx](http://pan.baidu.com/s/107kg8)
 
 {% include references.md %}
