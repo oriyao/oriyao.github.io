@@ -26,7 +26,7 @@ category: film
 
 道搁·科林斯 Doug Collins
 
-<img style="text-align:center" src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/Michael%20Jordan%20To%20The%20Max.jpg">
+<img style="text-align:center" src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/Michael%20Jordan%20To%20The%20Max.jpg" width="100%>
 
 影片简介：
 
