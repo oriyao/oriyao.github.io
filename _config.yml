@@ -13,9 +13,9 @@ custom:
         book: BOOK 读书
         c: C 语言
         film: FILM 影视
+        geek: Geek
         mooc: MOOC 公开课
         nba: NBA 篮球
-        geek: Geek
         website: Website 网站相关
         
     categories:

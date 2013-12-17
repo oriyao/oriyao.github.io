@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《friends》
+title: Friends
 category: film
 ---
 
