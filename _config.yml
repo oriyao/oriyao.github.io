@@ -27,6 +27,9 @@ custom:
       - name: film
         title: 影视
         
+      - name: geek
+        title: Geek
+        
       - name: mooc
         title: MOOC
 
