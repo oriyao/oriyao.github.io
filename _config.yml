@@ -16,17 +16,18 @@ custom:
         geek: Geek
         mooc: MOOC 公开课
         nba: NBA 篮球
+        physics: Physics
         website: Website 网站相关
         
     categories:
       - name:  book
-        title: 读书
+        title: BOOK 读书
 
       - name: c
         title: C 语言
         
       - name: film
-        title: 影视
+        title: FILM 影视
         
       - name: geek
         title: Geek
@@ -36,6 +37,9 @@ custom:
 
       - name: nba
         title: NBA
+        
+      - name: physics
+        title: Physics
         
       - name:  website
         title: WebSite
