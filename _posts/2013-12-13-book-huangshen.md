@@ -15,4 +15,4 @@ category: book
   
 　　为一说，使与书俱。
   
-  <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/cfbd2903c40231bdb0351dc0.jpg" width=100%>
+  <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/cfbd2903c40231bdb0351dc0.jpg" width="100%">
