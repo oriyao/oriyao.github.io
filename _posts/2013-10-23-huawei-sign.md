@@ -4,11 +4,11 @@ title: 加入华为，大有可为
 category: huawei
 ---
 
-<center>#华为2014年应届毕业生招聘正式启动#</center>
+#<center>华为2014年应届毕业生招聘正式启动</center>#
 
 <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/QQ%E6%88%AA%E5%9B%BE20131226090348.jpg" width="100%">
 
-##加入华为  大有可为##
+##<center>加入华为  大有可为</center>##
 
   
 
