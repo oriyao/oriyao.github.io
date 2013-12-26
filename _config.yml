@@ -14,9 +14,12 @@ custom:
         c: C 语言
         film: FILM 影视
         geek: Geek
+        huawei: HW 华为
+        lifestyle: Lifestyle
         mooc: MOOC 公开课
         nba: NBA 篮球
         physics: Physics
+        remarks: Remarks
         website: Website 网站相关
         
     categories:
@@ -31,6 +34,12 @@ custom:
         
       - name: geek
         title: Geek
+     
+      - name: huawei
+        title: HW 华为
+        
+      - name: lifestyle
+        title: Lifestyle
         
       - name: mooc
         title: MOOC
@@ -40,6 +49,9 @@ custom:
         
       - name: physics
         title: Physics
+      
+      - name: remarks
+        title: remarks
         
       - name:  website
         title: WebSite
