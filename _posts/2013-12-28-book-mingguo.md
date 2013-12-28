@@ -31,5 +31,5 @@ ASIN: B00EDHSCYW
 
 品牌: 究竟文化
 
-<center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/185757snqcicfse7o0psbi.jpg"></center>
+<center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/185757snqcicfse7o0psbi.jpg" width="100%"></center>
 
