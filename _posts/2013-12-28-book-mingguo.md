@@ -27,8 +27,6 @@ category: book
 
 出版社: 中国长安出版社; 第1版 (2011年8月1日)
 
-ASIN: B00EDHSCYW
-
 品牌: 究竟文化
 
 <center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/185757snqcicfse7o0psbi.jpg" width="100%"></center>
