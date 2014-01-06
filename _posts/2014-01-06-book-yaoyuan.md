@@ -3,6 +3,7 @@ layout: post
 title: 远远的村庄
 category: book
 ---
+[多看](http://www.duokan.com/book/11662) [豆瓣](http://book.douban.com/subject/10736589/)
 
 这是一本写给大人看的“小人儿书”。
 
@@ -19,9 +20,7 @@ category: book
 
 <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/Books/%E8%BF%9C%E8%BF%9C%E7%9A%84%E6%9D%91%E5%BA%84%20%281%29.jpg" width="100%">
 
-[多看](http://www.duokan.com/book/11662)
 
-[豆瓣](http://book.douban.com/subject/10736589/)
 
 我的评价:太单纯了，太美了，就像，又回去了童年,一口气读完然后慢慢嘴角上扬的回想！
 
