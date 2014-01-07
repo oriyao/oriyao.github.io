@@ -41,6 +41,9 @@ category: book
 <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/mykindlepaperwhite.jpg" width="100%">
 
 <center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201401/kindle.gif"></center>
+
+<center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201401/feature-techspec_CN_final._V367948554_.jpg"></center>
+
 本人接触的第一台E-INK电纸书是盛大的Bambook，系统之恶劣，售后之可耻，难于言表，但也初步体现出那么一点点ink的优势，
 也是因为这点优势，让我去了解更多，去尝试kindle然后脑残粉之。。。
 <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/bambook.jpg" width="100%">
