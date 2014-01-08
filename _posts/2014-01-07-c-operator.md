@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 初识C语言4（运算）
+title: 运算符operator
 category: c
 ---
 
@@ -43,10 +43,6 @@ unary - operator
 
     -a; //取反
     
-! operator
-
-    !a; //逻辑非运算符(logical negation operator),用于判断操作数是否为0，当a的值是0的时候!a值为1
-    
 ~ operator
 
     ~a; //按位求反运算符
@@ -84,8 +80,25 @@ a||b logical OR operator
 
 如果a和b都为0，则表达式的结果为0，否则为1(结果的类型为int)。
 
+!a logical negation operator
 
+用于判断操作数是否为0，当a的值是0的时候!a值为1(结果的类型为int)。
 
+###复合赋值运算符(compound assignment operator)
+
+对于[*,/,%,+,-,<<,>>,&,^,|]这些运算符来说，a @= b 和 a = a @ b的效果是一样的，运算和赋值一举两得。
+    sum += num;
+    sum=sum+num;
+
+###后置递增++(postfixed increment operator)递减--(postfixed decrement operator)运算符
+a++ 使a的值增加1(该表达式的值是增加前的值)
+
+a-- 使a的值减小1(该表达式的值是减小前的值)
+
+###前置递增++(prefixed increment operator)递减--(prefixed decrement operator)运算符
+++a 使a的值增加1(该表达式的值是增加后的值)
+
+--a 使a的值减小1(该表达式的值是减小后的值)
 
 
 
