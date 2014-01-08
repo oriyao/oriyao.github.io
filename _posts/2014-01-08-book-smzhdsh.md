@@ -29,7 +29,7 @@ category: book
 这本书是作者与母亲的亲身经历，笔触温暖，整本书不只是对母亲的追忆，也是爱书人的飨宴。
 
 
-<center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/Books/%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E7%9A%84%E8%AF%BB%E4%B9%A6%E4%BC%9A.jpg" ><\center>
+<center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/Books/%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E7%9A%84%E8%AF%BB%E4%B9%A6%E4%BC%9A.jpg" ></center>
 
 作者：	【美】威尔·施瓦尔贝
 
