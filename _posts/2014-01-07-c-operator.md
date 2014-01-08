@@ -59,10 +59,13 @@ unary - operator
 
 ###关系运算符(relational operator)
 
-'<'
-'>'
-'<='
-'>='
+\<
+
+\>
+
+\<=
+
+\>=
 
 ###条件运算符(conditional operator)
 
@@ -76,7 +79,7 @@ a&&b logical AND operator
 
 如果a和b都不为0，则表达式的结果为1，否则为0(结果的类型为int)。
 
-a||b logical OR operator
+a\|\|b logical OR operator
 
 如果a和b都为0，则表达式的结果为0，否则为1(结果的类型为int)。
 
