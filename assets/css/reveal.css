@@ -37,12 +37,12 @@ input,textarea{resize:none;}
 @media screen and (min-width:1024px) {
 	.main{
 		position:relative; zoom:1;
-		width:62%;
+		width:80%;
 		padding:2em 3em;
 	}
 	aside{
 		position:fixed;
-		left:62%;
+		left:80%;
 		top:0;
 		right:0;
 		height:100%;
@@ -69,7 +69,7 @@ aside{background:#eee; font-size:75%;}
 aside h2{margin:1em 0;}
 aside .feed-link{margin-left:0.5em;}
 aside nav ul{list-style:none; line-height:1.5em;}
-aside nav li:before{content:"> "; font:normal 80%/1em "ËÎÌå"; margin:0 .3em; color: #999;}
+aside nav li:before{content:""; font:normal 80%/1em "ï¿½ï¿½ï¿½ï¿½"; margin:0 .3em; color: #999;}
 aside .block{max-width:300px; margin:1.5em 0; line-height:1.5em;}
 aside .block h3{margin:.5em 0;}
 aside .block a{margin:0;}
