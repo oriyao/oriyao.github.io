@@ -82,9 +82,9 @@ var duoshuoQuery = {short_name:"oriyao"};
                 <a href="/category/p/"><img src="../../images/p.png" width="20%"/></a>
             </li>
             <li>
-                <a href="/category/q/"><img src="../../images/q.png" width="15%"/></a>
-                <a href="/category/r/"><img src="../../images/r.png" width="15%"/></a>
-                <a href="/category/s/"><img src="../../images/s.png" width="15%"/></a>
+                <a href="/category/q/"><img src="../../images/q.png" width="20%"/></a>
+                <a href="/category/r/"><img src="../../images/r.png" width="20%"/></a>
+                <a href="/category/s/"><img src="../../images/s.png" width="20%"/></a>
             </li>
             <li>
                 <a href="/category/t/"><img src="../../images/t.png" width="20%"/></a>
