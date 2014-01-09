@@ -10,50 +10,50 @@ exclude:
 
 custom:
     category:
-        book: BOOK 读书
+        b: BOOK 读书
         c: C 语言
-        film: FILM 影视
-        geek: Geek
-        huawei: HW 华为
-        lifestyle: Lifestyle
-        mooc: MOOC 公开课
-        nba: NBA 篮球
-        physics: Physics
-        remarks: Remarks
-        website: Website 网站相关
+        f: FILM 影视
+        g: Geek
+        h: HW 华为
+        l: Lifestyle
+        m: MOOC 公开课
+        n: NBA 篮球
+        p: Physics
+        r: Remarks
+        w: Website 网站相关
         
     categories:
-      - name:  book
+      - name:  b
         title: BOOK 读书
 
       - name: c
         title: C 语言
         
-      - name: film
+      - name: f
         title: FILM 影视
         
-      - name: geek
+      - name: g
         title: Geek
      
-      - name: huawei
+      - name: h
         title: HW 华为
         
-      - name: lifestyle
+      - name: l
         title: Lifestyle
         
-      - name: mooc
+      - name: m
         title: MOOC
 
-      - name: nba
+      - name: n
         title: NBA
         
-      - name: physics
+      - name: p
         title: Physics
       
-      - name: remarks
+      - name: r
         title: remarks
         
-      - name:  website
+      - name:  w
         title: WebSite
 
     scrollingLoadCount: 0
