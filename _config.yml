@@ -10,13 +10,13 @@ exclude:
 
 custom:
     category:
-        a: a~z
+        a: a~z 索引
         b: BOOK 读书
-        c: C 语言
-        d: D
-        e: E
+        c: CODE 编程
+        d: Digital 数码
+        e: English 英语
         f: FILM 影视
-        g: Geek
+        g: Geek 极客
         h: HW 华为
         i: I
         j: J
@@ -25,17 +25,17 @@ custom:
         m: MOOC 公开课
         n: NBA 篮球
         o: O
-        p: Physics
+        p: Physics 物理
         q: Q
-        r: Remarks
-        s: S
+        r: Remarks 搜集
+        s: Software 软件
         t: T
         u: U
         v: V
         w: Website 网站相关
         x: X
         y: Y
-        z: Z
+        z: ZOOM 变焦
         
     categories:
       - name:  a
@@ -48,7 +48,7 @@ custom:
         title: C 语言
 
       - name: d
-        title: D
+        title: Digital 数码
         
       - name: e
         title: E
@@ -114,7 +114,7 @@ custom:
         title: Yao
         
       - name: z
-        title: 主页
+        title: 变焦
 
     scrollingLoadCount: 0
 
