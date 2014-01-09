@@ -38,20 +38,38 @@ custom:
         z: Z
         
     categories:
+      - name:  a
+        title: A
+        
       - name:  b
         title: BOOK 读书
 
       - name: c
         title: C 语言
+
+      - name: d
+        title: D
         
+      - name: e
+        title: E
+
       - name: f
         title: FILM 影视
         
       - name: g
         title: Geek
-     
+        
       - name: h
         title: HW 华为
+        
+      - name: i
+        title: I
+        
+      - name: j
+        title: J
+
+      - name: k
+        title: K
         
       - name: l
         title: Lifestyle
@@ -62,14 +80,41 @@ custom:
       - name: n
         title: NBA
         
+      - name: o
+        title: O
+        
       - name: p
         title: Physics
+        
+      - name: q
+        title: Q
       
       - name: r
         title: remarks
         
+      - name: s
+        title: S
+        
+      - name: t
+        title: T
+        
+      - name: u
+        title: U
+        
+      - name: v
+        title: V
+        
       - name:  w
         title: WebSite
+        
+      - name: x
+        title: X
+        
+      - name: y
+        title: Yao
+        
+      - name: z
+        title: 主页
 
     scrollingLoadCount: 0
 
