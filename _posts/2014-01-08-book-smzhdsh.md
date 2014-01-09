@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 生命最后的读书会
-category: book
+category: b
 ---
 [多看](http://www.duokan.com/book/41833) [豆瓣](http://book.douban.com/subject/10736589/)[vc6w](http://pan.baidu.com/s/1c05TzPY) 
 

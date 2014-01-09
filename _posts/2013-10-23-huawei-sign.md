@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 加入华为，大有可为
-category: huawei
+category: h
 ---
 
 #<center>华为2014年应届毕业生招聘正式启动</center>#

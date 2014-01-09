@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 远远的村庄
-category: book
+category: b
 ---
 [多看](http://www.duokan.com/book/11662) [豆瓣](http://book.douban.com/subject/10736589/)
 

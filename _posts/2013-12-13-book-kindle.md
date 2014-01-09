@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 工欲善其事,必先利其器
-category: book
+category: b
 ---
 
 子曰:工欲善其事,必先利其器

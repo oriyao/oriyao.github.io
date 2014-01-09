@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 艾走了
-category: nba
+category: n
 ---
 
 *2009/11/26*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 纽约街头篮球之旅后记
-category: nba
+category: n
 ---
 
 #纽约街头篮球之旅后记(上)

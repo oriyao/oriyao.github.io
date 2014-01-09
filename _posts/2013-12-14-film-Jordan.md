@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Michael Jordan To The Max
-category: film
+category: f
 ---
 
 译　　名　极限乔丹

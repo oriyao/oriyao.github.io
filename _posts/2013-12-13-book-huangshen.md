@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 黄生借书说
-category: book
+category: b
 ---
  <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/20130712103443-69117892.jpg">
  

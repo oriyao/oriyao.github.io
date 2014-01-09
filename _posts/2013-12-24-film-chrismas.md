@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Christmas Carol 圣诞颂歌
-category: film
+category: f
 ---
 祝大家圣诞快乐哦！
 

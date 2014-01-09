@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world!
-category: website
+category: w
 ---
 2012年12月12日：
 

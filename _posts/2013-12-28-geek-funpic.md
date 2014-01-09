@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 长颈鹿WIFI
-category: geek
+category: g
 ---
 
 

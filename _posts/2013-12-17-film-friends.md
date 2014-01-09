@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Friends
-category: film
+category: f
 ---
 
 Apartment of Monica and Rachel：

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LINSANITY
-category: film
+category: f
 ---
 
 Linsanity最早是《华盛顿邮报》给林书豪取的外号，现在已经成为林书豪个人的代名词。

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我叫刘跃进
-category: book
+category: b
 ---
 [多看](http://www.duokan.com/book/13347) [豆瓣](http://book.douban.com/subject/10736589/) [rur2](http://pan.baidu.com/s/13VBHk) 
 

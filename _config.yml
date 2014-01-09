@@ -10,17 +10,32 @@ exclude:
 
 custom:
     category:
+        a: a~z
         b: BOOK 读书
         c: C 语言
+        d: D
+        e: E
         f: FILM 影视
         g: Geek
         h: HW 华为
+        i: I
+        j: J
+        k: K
         l: Lifestyle
         m: MOOC 公开课
         n: NBA 篮球
+        o: O
         p: Physics
+        q: Q
         r: Remarks
+        s: S
+        t: T
+        u: U
+        v: V
         w: Website 网站相关
+        x: X
+        y: Y
+        z: Z
         
     categories:
       - name:  b

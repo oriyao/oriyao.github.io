@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 数学之旅 The Journey of Mathematics
-category: mooc
+category: m
 ---
 
 授课大纲 Syllabus Help
