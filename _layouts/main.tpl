@@ -1,18 +1,22 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!--主页-->
-<html>
-    
+<!DOCTYPE html>
+<html lang="zh-CN">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Oriyao-首页</title>
+<meta charset="utf-8" />
+<meta name="author" content="{{ site.meta.author.name }}" />
+<meta name="keywords" content="{{ page.tags | join: ',' }}" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>{{ site.name }}{% if page.title %} / {{ page.title }}{% endif %}</title>
+<link href="http://{{ site.host }}/feed.xml" rel="alternate" title="{{ site.name }}" type="application/atom+xml" />
+<link rel="stylesheet" type="text/css" href="/assets/css/site.css" />
+
+{% for style in page.styles %}<link rel="stylesheet" type="text/css" href="{{ style }}" />
+{% endfor %}
 </head>
 
-<body >
+<body class="{{ page.pageClass }}">
 
 <!--<base href=".">-->
-    <link rel="stylesheet" type="text/css" href="./home_files/style_3_common.css">
-    <link rel="stylesheet" type="text/css" href="./home_files/style_3_portal_index.css">
-    <link rel="stylesheet" type="text/css" href="./home_files/index.css" media="all">
+    <link rel="stylesheet" type="text/css" href="../../css/main-post.css" media="all">
 
 <!--网站导航区域-->
 <div class="clearfix navcontainer wp cl">
@@ -20,7 +24,7 @@
     <div class="cl s_header">
         <div class="logo">
             <h1><a href="http://www.oriyao.com/" title="Oriyao 的主页" target="_blank">
-                <img src="./home_files/logo.png" width="100%"></a>
+                <img src="../../images/logo.png" width="100%"></a>
             </h1>
         </div>
     </div>
@@ -39,9 +43,9 @@
 <!--网站正文区-->
 <div id="wp" class="wp">
          <center><div>
-                <img width="33%" height="250" src="./home_files/book.png">
-                <img width="33%" height="250" src="./home_files/film.png"> 
-                <img width="33%" height="250" src="./home_files/zoom.png">
+                <img width="33%" height="250" src="../../images/book.png">
+                <img width="33%" height="250" src="../../images/film.png"> 
+                <img width="33%" height="250" src="../../images/zoom.png">
         </div></center>
         
         <div class="ajax-select">
@@ -54,20 +58,11 @@
       
       <div class="container clearfix"> 
         <div class="articlecontainer nonfeatured homepage maincontent">
-          <div><h2 class="indextitle"> </h2></div>
-                <div class="articleinner">
-                    <a href="http://oriyao.com/posts/c-function.html" target="_blank">
-                        <h2 class="indextitle">函数(function)</h2></a>
-                    <span class="date">2014-01-08 | CODE 编程</span> 
+                <div >
+                    <div class="main">
+                        {{ content }}
+                    </div>
                 </div>
-                    
-                <div class="articleinner">
-                    <a href="http://oriyao.com/posts/book-smzhdsh.html" target="_blank">
-                        <h2 class="indextitle">生命最后的读书会</h2></a>
-                    <span class="date">2014-01-08 | BOOK 读书</span> 
-                </div>
-            
-
         </div>
 <!-- Sidebar================================================== -->
     <div class="sidebar">
@@ -75,7 +70,7 @@
                <a style="text-decoration: none;" href="https://mail.google.com" target="_blank">
                    <span class="social-button-style">
                     <span class="button facebook-blue cell1 img">
-                        <img src="./home_files/portal_post.png" style="opacity: 1;">
+                        <img src="../../images/portal_post.png" style="opacity: 1;">
                     </span>
                     <span class="button cell2">联系我</span>
                     <span class="nameology">Contact me</span>
@@ -84,7 +79,7 @@
                <a style="text-decoration: none;">
                    <span class="social-button-style">
                        <span class="button twitter-blue cell1 img">
-                           <img src="./home_files/collection.png" style="opacity: 1;">
+                           <img src="../../images/collection.png" style="opacity: 1;">
                        </span>
                        <span class="button cell2">收藏本站</span>
                        <span class="nameology">Favorite</span>
@@ -93,13 +88,27 @@
             <a style="text-decoration: none;">
                   <span class="social-button-style">
                       <span class="button rss-orange cell1 img">
-                          <img src="./home_files/rss.png">
+                          <img src="../../images/rss.png">
                       </span>
                   <span class="button cell2">订阅</span>
                       <span class="nameology">Rss</span>
                 </span>
-            </a> 
+            </a>
         </div>
+        <!-- Duoshuo Comment BEGIN -->
+            <div class="ds-thread"></div>
+            <script type="text/javascript">
+                    var duoshuoQuery = {short_name:"oriyao"};
+	                   (function() {
+		              var ds = document.createElement('script');
+		              ds.type = 'text/javascript';ds.async = true;
+		              ds.src = 'http://static.duoshuo.com/embed.js';
+		              ds.charset = 'UTF-8';
+		                  (document.getElementsByTagName('head')[0] 
+		              || document.getElementsByTagName('body')[0]).appendChild(ds);
+	                   })();
+	           </script>
+        <!-- Duoshuo Comment END -->
     </div>
 
 </div>
@@ -113,7 +122,7 @@
     <div  id="ft" class="footerwidgetwrap">
         <div class="footerwidget">
             <div>
-                <img src="./home_files/ft-logo.png">
+                <img src="../../images/ft-logo.png">
             </div>
             <br>
             <p>ylzhangyao@gmail.com</p>
@@ -143,7 +152,7 @@
         <div  class="widget widget_tag_cloud">
           <h3 class="widget-title">&nbsp;</h3>
           <p> 
-             <img src="./home_files/security.png">
+             <img src="../../images/security.png">
           </p>
         </div>
     </div>

@@ -22,7 +22,7 @@ input,textarea{resize:none;}
 @media screen and (min-width:1024px) {
 	.main{
 		position:relative; zoom:1;
-		width:80%;
+		width:100%;
 		padding:2em 3em;
 	}
 	aside{
@@ -73,7 +73,7 @@ aside .block-fork{position: absolute; top:0; right:0; margin: 0;}
 
 /*width height*/
 html{width:100%;height:100%;overflow:hidden}
-body{position:relative;line-height:1;width:80%;height:100%;overflow:hidden}
+body{position:relative;line-height:1;width:100%;height:100%;overflow:hidden}
 
 ::selection{background:#FF5E99;color:#fff;text-shadow:none}
 .reveal h1,.reveal h2,.reveal h3,.reveal h4,.reveal h5,.reveal h6{-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;word-wrap:break-word;line-height:1}
