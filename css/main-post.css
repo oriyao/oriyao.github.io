@@ -121,12 +121,6 @@ span.date a.bubble, span.date a.bubble:hover { position: absolute; right: 0px; b
 
 
 
-.articleinner h1, .articleinner h1 a, .articleinner h2, .articleinner h2 a, .articleinner h3, .articleinner h3 a, .articleinner h4, .articleinner h4 a, .articleinner h5, .articleinner h5 a .articleinner h6, .articleinner h6 a { font-size: 12px ! important; line-height: 20px ! important; color: rgb(85, 85, 85) ! important; margin: 0px 0px 10px ! important; font-weight: normal ! important; text-transform: none ! important; }
-
-
-.articleinner h2 a { color: rgb(34, 34, 34) ! important; }
-.featured h2, .featured h2 a { font-size: 22px; line-height: 28px; margin-bottom: 10px; text-shadow: 0px 1px 0px black; font-weight: normal; }
-.featured .half h2, .featured .half h2 a { font-size: 16px; line-height: 18px; }
 .featured .one_col.half { height: 124px; }
 
 
