@@ -1,10 +1,6 @@
 body,button,select,textarea{font:12px/1.5 Tahoma,Helvetica,'SimSun',sans-serif;color:#555;}
 
-body,ul,ol,li,dl,dd,p,h1,h2,h3,h4,h5,h6{margin:0;padding:0;}
-
-a{color:#333;text-decoration:none;}
-
-a:hover{text-decoration:underline;}
+body,ul,ol,li,dl,dd,p{margin:0;padding:0;}
 
 .y{float:right;}
 
