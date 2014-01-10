@@ -23,7 +23,6 @@ input,textarea{resize:none;}
 	.main{
 		position:relative; zoom:1;
 		width:100%;
-		padding:2em 3em;
 	}
 	aside{
 		position:fixed;

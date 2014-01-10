@@ -10,8 +10,7 @@ input,textarea{resize:none;}
 @media screen and (min-width:1024px) {
 	.main{
 		position:relative; zoom:1;
-		width:82%;
-		padding:2em 3em;
+		width:100%;
 	}
 	aside{
 		position:fixed;

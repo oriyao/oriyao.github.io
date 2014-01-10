@@ -49,10 +49,10 @@ body{background:url(../../template/singcere_inspiration/src/img//all/index_bg.pn
 
 
 .noborder { border: medium none ! important; }
-.container { width: 964px; margin: 0px auto; padding: 0px; }
+.container { width: 100%; margin: 0px auto; padding: 0px; }
 .mainbody { z-index: 1; }
 .container:after { content: " "; display: block; height: 0px; clear: both; visibility: hidden; }
-.maincontent { width: 664px; float: left; overflow:hidden; margin-right:20px; position: relative; margin-bottom: 25px; border-top: 8px solid rgb(51, 51, 51); margin-top: -8px; z-index: 1; }
+.maincontent { width: 65%; float: left; overflow:hidden; margin-right:20px; position: relative; margin-bottom: 25px; border-top: 8px solid rgb(51, 51, 51); margin-top: -8px; z-index: 1; }
 .maincontent.full { width: 100%; }
 #isonormal { width:700px; width:px; margin-bottom: 20px; z-index: 1; }
 .sidebar { padding-top: 25px; float: right; margin-left: 20px; width: 260px; border-top: 8px solid rgb(51, 51, 51); margin-top: -8px; opacity: 0.8; }
@@ -204,7 +204,7 @@ ul.tabs:after { clear: both; }
 .nonfeatured .one_col { width: 237px; }
 .featured .two_col { width: 501px; height: 246px; }
 .maincontent { width: 496px; }
-.articlecontainer.nonfeatured { width: 496px; }
+.articlecontainer.nonfeatured { width: 100%; }
 
 
 .logo h1 { padding-top: 0.5em ! important; padding-bottom: 0.1em ! important; }
