@@ -294,20 +294,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, p a:hover, .blogpost
 background: none repeat scroll 0% 0% rgb(0, 164, 152);
 color: rgb(255, 255, 255);
 }
-h1, h2, h1 a, h2 a, .blogpost h2 a, h3, .ag_projects_widget h3, h3 a, .aj_projects_widget h3 a, .ajax-select ul.sf-menu a, .pagination .button, .nivo-caption h3.title {
-	font-family: "Microsoft Yahei", arial, sans-serif;
-	font-weight: normal;
-	text-transform: none;
-}
-h5, h5 a, .widget h3, .widget h2, .widget h4, .reviewbox h4, .reviewbox .score span, .ajax-select a#news_select, .authorposts h4, h4.widget-title {
-	font-family: "Microsoft Yahei", arial, sans-serif;
-	font-weight: normal;
-	text-transform: uppercase ! important;
-}
-h4, h4 a, .footer .note h4, .footer h4.subheadline, .newspost h4, .paginationbutton .button, .articleinner h2.indextitle, .widget .articleinner h2.indextitle, .articleinner h2.indextitle a, .widget artileinner h2.indextitle a {
-	font-family: "Microsoft Yahei", arial, sans-serif;
-	font-weight: normal;
-}
+
 .sf-menu a, .ajax-select ul.sf-menu li li a {
 	font-family: "Droid Sans", arial, sans-serif;
 	font-weight: bold;

@@ -34,7 +34,9 @@
             <li><a href="/category/b/" target="_blank">BOOK</a></li>
             <li><a href="/category/f/" target="_blank">影视</a></li>
             <li><a href="/category/c/" target="_blank">码农</a></li>
+            <li><a href="/category/n/" target="_blank">NBA</a></li>
             <li><a href="http://weibo.com/914502294/" target="_blank">微博</a></li>
+            <li><a href="/category/w/" target="_blank">网站</a></li>
             <li><a href="/category/z/" target="_blank">ZOOM</a></li>
         </ul>
     </div>
