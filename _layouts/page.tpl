@@ -97,7 +97,7 @@ var duoshuoQuery = {short_name:"oriyao"};
                 <a href="/category/y/"><img src="../../images/y.png" width="20%"/></a>
             </li>
             <li>
-                <a href="/category/z/"><img src="../../images/z.png" width="60%"/></a>
+                <a href="/homepage/home.htm"><img src="../../images/z.png" width="60%"/></a>
             </li>
 		</ul>
 	</nav>
