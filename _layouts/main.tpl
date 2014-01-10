@@ -56,10 +56,11 @@
           </ul>
         </div>   
       
-      <div class="container clearfix"> 
-        <div class="articlecontainer nonfeatured homepage maincontent">
+<div class="container clearfix"> 
+        <div class="articlecontainer nonfeatured maincontent">
             <div class="main">
-                        {{ content }}
+                <br>
+                {{ content }}
             </div>
     </div>
 <!-- Sidebar================================================== -->
@@ -70,8 +71,6 @@
                     <span class="button facebook-blue cell1 img">
                         <img src="../../images/portal_post.png" style="opacity: 1;">
                     </span>
-                    <span class="button cell2">联系我</span>
-                    <span class="nameology">Contact me</span>
                    </span>
                 </a>
                <a style="text-decoration: none;">
@@ -79,18 +78,23 @@
                        <span class="button twitter-blue cell1 img">
                            <img src="../../images/collection.png" style="opacity: 1;">
                        </span>
-                       <span class="button cell2">收藏本站</span>
-                       <span class="nameology">Favorite</span>
+
                    </span>
                 </a> 
-            <a style="text-decoration: none;">
+            <a>
                   <span class="social-button-style">
                       <span class="button rss-orange cell1 img">
                           <img src="../../images/rss.png">
                       </span>
-                  <span class="button cell2">订阅</span>
-                      <span class="nameology">Rss</span>
+
                 </span>
+            </a>
+            <a href="http://www.duokan.com/">
+                      <span class="social-button-style">
+                          <span class="button rss-orange cell1 img">
+                          <img src="../../images/duokan.png">
+                      </span>
+                      </span>
             </a>
         </div>
         <!-- Duoshuo Comment BEGIN -->
@@ -107,34 +111,6 @@
 	                   })();
 	           </script>
         <!-- Duoshuo Comment END -->
-        <div class="button twitter-blue cell1 img">
-            <a href="/category/a/"><img src="../../images/a.png" width="60%"/></a>
-            <a href="/category/b/"><img src="../../images/b.png" width="20%"/></a>
-            <a href="/category/c/"><img src="../../images/c.png" width="20%"/></a>
-            <a href="/category/d/"><img src="../../images/d.png" width="20%"/></a>
-            <a href="/category/e/"><img src="../../images/e.png" width="20%"/></a>
-            <a href="/category/f/"><img src="../../images/f.png" width="20%"/></a>
-            <a href="/category/g/"><img src="../../images/g.png" width="20%"/></a>
-            <a href="/category/h/"><img src="../../images/h.png" width="20%"/></a>
-            <a href="/category/i/"><img src="../../images/i.png" width="20%"/></a>
-            <a href="/category/j/"><img src="../../images/j.png" width="20%"/></a>
-            <a href="/category/k/"><img src="../../images/k.png" width="20%"/></a>
-            <a href="/category/l/"><img src="../../images/l.png" width="20%"/></a>
-            <a href="/category/m/"><img src="../../images/m.png" width="20%"/></a>
-            <a href="/category/n/"><img src="../../images/n.png" width="20%"/></a>
-            <a href="/category/o/"><img src="../../images/o.png" width="20%"/></a>
-            <a href="/category/p/"><img src="../../images/p.png" width="20%"/></a>
-            <a href="/category/q/"><img src="../../images/q.png" width="20%"/></a>
-            <a href="/category/r/"><img src="../../images/r.png" width="20%"/></a>
-            <a href="/category/s/"><img src="../../images/s.png" width="20%"/></a>
-            <a href="/category/t/"><img src="../../images/t.png" width="20%"/></a>
-            <a href="/category/u/"><img src="../../images/u.png" width="20%"/></a>
-            <a href="/category/v/"><img src="../../images/v.png" width="20%"/></a>
-            <a href="/category/w/"><img src="../../images/w.png" width="20%"/></a>
-            <a href="/category/x/"><img src="../../images/x.png" width="20%"/></a>
-            <a href="/category/y/"><img src="../../images/y.png" width="20%"/></a>
-            <a href="/homepage/home.htm"><img src="../../images/z.png" width="60%"/></a>
-        </div>
     </div>
 
 </div>
