@@ -104,4 +104,133 @@ a-- 使a的值减小1(该表达式的值是减小前的值)
 --a 使a的值减小1(该表达式的值是减小后的值)
 
 
+||          *运算符一览表*              ||
+||优先级||运算符||形式 ||     名称||结合性||
+||    1||   ()|| x(y)||   函数调用  ||左||
+||    1||   []|| x[y]||  下标运算符 ||左||
 
+
+<table>
+    <thead>
+        <th colspan="5" style="text-align:center"><strong>运算符一览表</strong></th>
+    </thead>
+    <tbody style="text-align:center">
+        <tr>
+            <td>优先级</td><td>运算符</td><td>形式</td><td>名称</td><td>结合性</td>
+        </tr>
+        <tr>
+            <td>1</td><td>()</td><td>x(y)</td><td>函数调运运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>1</td><td>[]</td><td>x[y]</td><td>下标运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>1</td><td>.</td><td>x.y</td><td>句点运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>1</td><td>-></td><td>x->y</td><td>箭头运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>1</td><td>++</td><td>x++</td><td>后置递增运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>1</td><td>--</td><td>x--</td><td>后置递减运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>2</td><td>++td><td>++x</td><td>前置递增运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>2</td><td>--</td><td>--x</td><td>前置递减运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>2</td><td>sizeof</td><td>sizeof x</td><td>sizeof运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>2</td><td>&</td><td>/&x</td><td>取址运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>2</td><td>*</td><td>*x</td><td>指针运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>2</td><td>+</td><td>+x</td><td>单目运算符+</td><td>右</td>
+        </tr>
+        <tr>
+            <td>2</td><td>-</td><td>-x</td><td>单目运算符-</td><td>右</td>
+        </tr>
+        <tr>
+            <td>2</td><td>~</td><td>~x</td><td>按位求补运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>2</td><td>!</td><td>!x</td><td>逻辑非运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>3</td><td>()</td><td>(x)y</td><td>类型转换运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>4</td><td>*</td><td>x*y</td><td>相乘运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>4</td><td>/</td><td>x/y</td><td>相除运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>4</td><td>%</td><td>x%y</td><td>取余运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>5</td><td>+</td><td>x+y</td><td>相加运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>5</td><td>-</td><td>x-y</td><td>相减运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>6</td><td>\<\<</td><td>x << y</td><td><< 运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>6</td><td>>></td><td>x >> y</td><td>>> 运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>7</td><td><</td><td>x < y</td><td>< 运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>7</td><td><=</td><td>x <= y</td><td><= 运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>7</td><td>></td><td>x > y</td><td>> 运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>7</td><td>>=</td><td>x >= y</td><td>>= 运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>8</td><td>==</td><td>x == y</td><td>== 运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>8</td><td>!=</td><td>x != y</td><td>!= 运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>9</td><td>&</td><td>x & y</td><td>按位与运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>10</td><td>^</td><td>x^y</td><td>按位异或运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>11</td><td>|</td><td>x|y</td><td>按位或运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>12</td><td>&&</td><td>x && y</td><td>逻辑与运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>13</td><td>||</td><td>x||y</td><td>逻辑或运算符</td><td>左</td>
+        </tr>
+        <tr>
+            <td>14</td><td>? :</td><td>x?y:z</td><td>条件运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>15</td><td>=</td><td>x=y</td><td>基本赋值运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>15</td><td>+= -= *= /=</td><td>%= <<= >>= &= ^= |=</td><td>复合赋值运算符</td><td>右</td>
+        </tr>
+        <tr>
+            <td>16</td><td>,</td><td>x,y</td><td>逗号运算符</td><td>左</td>
+        </tr>
+    </tbody>
+</table>
