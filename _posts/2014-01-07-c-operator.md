@@ -104,12 +104,6 @@ a-- 使a的值减小1(该表达式的值是减小前的值)
 --a 使a的值减小1(该表达式的值是减小后的值)
 
 
-||          *运算符一览表*              ||
-||优先级||运算符||形式 ||     名称||结合性||
-||    1||   ()|| x(y)||   函数调用  ||左||
-||    1||   []|| x[y]||  下标运算符 ||左||
-
-
 <table>
     <thead>
         <th colspan="5" style="text-align:center"><strong>运算符一览表</strong></th>
@@ -146,7 +140,7 @@ a-- 使a的值减小1(该表达式的值是减小前的值)
             <td>2</td><td>sizeof</td><td>sizeof x</td><td>sizeof运算符</td><td>右</td>
         </tr>
         <tr>
-            <td>2</td><td>&</td><td>/&x</td><td>取址运算符</td><td>右</td>
+            <td>2</td><td>&</td><td>&x</td><td>取址运算符</td><td>右</td>
         </tr>
         <tr>
             <td>2</td><td>*</td><td>*x</td><td>指针运算符</td><td>右</td>
@@ -182,7 +176,7 @@ a-- 使a的值减小1(该表达式的值是减小前的值)
             <td>5</td><td>-</td><td>x-y</td><td>相减运算符</td><td>左</td>
         </tr>
         <tr>
-            <td>6</td><td>\<\<</td><td>x << y</td><td><< 运算符</td><td>左</td>
+            <td>6</td><td><<</td><td>x << y</td><td><< 运算符</td><td>左</td>
         </tr>
         <tr>
             <td>6</td><td>>></td><td>x >> y</td><td>>> 运算符</td><td>左</td>
