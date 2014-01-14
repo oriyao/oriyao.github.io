@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8" />
@@ -38,6 +38,7 @@
             <li><a href="http://weibo.com/914502294/" target="_blank">微博</a></li>
             <li><a href="/category/w/" target="_blank">网站</a></li>
             <li><a href="/category/z/" target="_blank">ZOOM</a></li>
+	    <li><a href="/category/t/" target="_blank">HTML5</a></li>
         </ul>
     </div>
 </div>
