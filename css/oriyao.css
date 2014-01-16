@@ -30,8 +30,7 @@ nav ul li a:hover {
 body>article {
     padding:1em 10% 1em 10%;
     background:  #F5F5F5;
-    margin:0 auto;
-    padding:10%;}
+    margin:0 auto;}
 article > header h1 {
     font-size: 2em;
     float: left;
@@ -67,14 +66,22 @@ article dl{margin:.5em .8em;}
 article dl dd{margin-left:2em;}
 article dl dd>ul,
 article dl dd>ol{padding-left:1em;}
-article pre{width:100%; overflow-x:auto; line-height:1.2em; border:1px solid #ccc; background:#F8F8FF; font-size:85%;}
-article code{margin:auto 1px; padding:auto 2px; background:#f8f8f8; font-family:"Inconsolata", "Monaco", "Consolas", "Andale Mono", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;}
+
+article pre{width:100%; border:1em solid #A9A9A9; background:#000000; font-size:85%;}
+article code{margin: 2em; padding: 1.5em; color:#FFFFFF;font-family:"Inconsolata", "Monaco", "Consolas", "Andale Mono", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;}
+
 article table{border-collapse:collapse;}
 article th,article td{padding:0 10px; border:1px solid #ccc; font-size:85%;}
 article th{background:#eee; text-align:left;}
 article td{background:#fff;}
 article table a{margin:0;}
-article blockquote{line-height:1.6em; margin:1em 0 1em 1.5em; border-left:2px solid #eee; padding-left:1em; font-size:90%;}
+
+article blockquote{line-height:1.6em; margin:1em 0 1em 1.5em; border-left:0.5em solid #B8860B; padding-left:1em; font-size:90%;}
+
+a{margin:0 2px; color:#06c; text-decoration:none;}
+a:hover{text-decoration:underline;}
+
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{margin:0;}
 
 
 
@@ -100,3 +107,4 @@ footer p {
 
 
 
+.cover{width:50%; border:1em solid #A9A9A9;}

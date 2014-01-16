@@ -3,7 +3,7 @@ layout: post
 title: 生命最后的读书会
 category: b
 ---
-[多看](http://www.duokan.com/book/41833) [豆瓣](http://book.douban.com/subject/10736589/)[vc6w](http://pan.baidu.com/s/1c05TzPY) 
+ 
 
 家庭版《相约星期二》，母与子的最后对话！ 
 
@@ -29,16 +29,7 @@ category: b
 这本书是作者与母亲的亲身经历，笔触温暖，整本书不只是对母亲的追忆，也是爱书人的飨宴。
 
 
-<center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/Books/%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E7%9A%84%E8%AF%BB%E4%B9%A6%E4%BC%9A.jpg" width="100%"></center>
-
-作者：	【美】威尔·施瓦尔贝
-
-译者：	姜莹莹
-
-版权：	北京时代华语图书股份有限公司
-
-出版：	2013-07-01
-
+<center><img class="cover" src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/Books/%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E7%9A%84%E8%AF%BB%E4%B9%A6%E4%BC%9A.jpg"></center>
 
 我们从一出生开始，就面临着死亡，我们从一懂事开始，就想知道未来会怎样，当我们面临死亡的时候，当我们知道那一天就要到来的时候，我们能做些什么。
 
@@ -51,3 +42,24 @@ category: b
 我读的数不算少，但读过之后，也只是读过而已，从这本书中，我学到了书该怎样去读，由其是，找到一个能一起读书的人，一起思辨，一起讨论，在找不到书友的现在能从这本书中发现不少有同感的心得，是很开心的一件事。
 
 如果我们都在读书，不妨写下心得，随着时间的增长，沉淀下来的，该会是很美好的，就算死亡来临，看看曾经读过的那么多世界，就像自己也经历过一样，特别的美。
+
+
+    
+#关于本书
+* 作者：【美】威尔·施瓦尔贝
+* 译者：姜莹莹
+* ISBN：
+* 页数：
+* 定价：
+* 出版社：北京时代华语图书股份有限公司
+* 来源：[多看](http://www.duokan.com/book/41833)[豆瓣](http://book.douban.com/subject/10736589/)[vc6w](http://pan.baidu.com/s/1c05TzPY)
+* 购买时间：2013-07-01
+
+
+<details>
+        <summary>主要章节</summary>
+        <menu>
+            <li>第一章 </li>
+            <li>第二章</li>
+        </menu>
+</details>
