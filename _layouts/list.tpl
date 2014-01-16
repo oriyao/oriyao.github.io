@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: page
 
 pageClass: page-type-list
 ---
