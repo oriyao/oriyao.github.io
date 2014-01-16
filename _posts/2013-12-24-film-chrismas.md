@@ -5,12 +5,22 @@ category: f
 ---
 祝大家圣诞快乐哦！
 
-<img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/a_christmas_carol-001.jpg" width="100%">
+<center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/a_christmas_carol-001.jpg" width="80%"></center>
+
+* 导演:
+* 类型: 
+* 制片国家/地区: 美国
+* 语言: 英语
+* 上映日期:
+* 片长:
+* IMDb: 
+* [m1tr](http://pan.baidu.com/s/1mgsLSsK)
+* 我的推荐指数<progress min="0" max="100" value="60"><span>60</span>%</progesss>
 
 性情刻薄、冷酷的守财奴埃比尼泽•斯克鲁奇（金•凯瑞 Jim Carrey 配音），面对温暖的圣诞节，却表现出讨厌周遭的一切庆祝活动。圣诞临近，他想尽办法去剥削他那忠诚可靠的雇员鲍勃•克莱切特（加里•奥德曼 Gary Oldman 配音）以及爽朗乐观的侄子弗莱德（科林•费斯 Col in Firth 配音）。打从一开始，埃比尼泽根本就无心享受假期，只想像平常那样独自一个人待在家里。让埃比尼泽想象不到的是，他梦见刚逝去的合伙人约瑟夫•马利（加里•奥德曼 Gary Oldman 配音）的鬼魂。他希望能够借机帮助埃比尼泽，避免他以后走上自己的老路，后悔不堪。约瑟夫告诉埃比尼泽，在他之后还会有三个幽灵来拜访他……很快，这三个分别被称为圣诞节的"过去之灵"、"现在之灵"和"未来之灵"（金•凯瑞 Jim Carrey 配音）的鬼魂就找到了他，唤醒他人性的另一面……
 　　本片改编自查尔斯•狄更斯创作于1843年的同名小说，本片是迪士尼第一部将以IMAX 3D方式发行的影片，影片中的人物表情都是通过“表演捕捉”完成的。
   
-<img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/a_christmas_carol.jpg" width="100%">
+<center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/a_christmas_carol.jpg" width="80%"></center>
 
 你可知道，现在在西方已是约定俗成的“圣诞风俗”，如家庭团聚、互换礼物、圣诞大餐, 
 甚至“圣诞快乐”的说法……并不是耶稣诞生时就有，而是起源于本书？！
@@ -28,6 +38,4 @@ category: f
 《圣诞颂歌》奠定了现代圣诞节的寓意和内涵，同时也告诫人们要拥有一颗善良、仁慈、怜悯、容忍之心。
 只要善良仁慈、积德行善、乐善好施，就能得到无穷无尽的幸福。
 
-<img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/cc2_wallpaper.jpg" width="100%">
-
-[m1tr](http://pan.baidu.com/s/1mgsLSsK)
+<center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/movie/cc2_wallpaper.jpg" width="80%"></center>

@@ -13,7 +13,7 @@ The Xi'an Incident is also called the “Double-Twelfth Incident”.
 
 重要的是：我的网站上线一个月来首次改版了！*好懒*
 
-<img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/lazycat.gif">
+<center><img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/lazycat.gif"></center>
 
 从传统的手工HTML逐行编写，到Jekyll的使用，这是突破性的一步。*怎么才转过来*
 
@@ -34,6 +34,10 @@ The Xi'an Incident is also called the “Double-Twelfth Incident”.
 * 使用多说的云评论服务
 
 * 使用[aliyun OSS](http://aliyun.com/)作为图片外链服务
+
+* 采用jekyll
+
+* 改用HTML5编写网站
 
 准备要完成的事情：
 
