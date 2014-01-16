@@ -1,21 +1,106 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="zh-cn">
+
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />
 <title>TEST</title>
 <link rel="stylesheet" href="/category/t/oriyao.css"/>
+<link rel="stylesheet" href="oriyao.css"/>
 </head>
+
 <body>
+    <header>
+        <h1>Oriyao</h1>
+    </header>
+  
+    <nav>
+        <ul>
+            <li><a href="#">首页</a></li>
+            <li><a href="#">BOOK</a></li>
+            <li><a href="#">CODE</a></li>
+            <li><a href="#">FILM</a></li>
+            <li><a href="#">NBA</a></li>
+            <li><a href="#">ZOOM</a></li>
+        </ul>
+    </nav>
+
+<article>
   <header>
-	<hgroup>
-  	  <h1>虫虫阅读网</h1>
-  	  <h2>最专业的少儿阅读导航 读后感</h2>
- 	 </hgroup>
-	  <p>虫虫阅读由中国少年儿童新闻出版总社主办，旨在通过这个平台，让更多的孩子爱上阅读，并分享读后感。</p>
+	<h1> <a href="#" rel="bookmark">《夏洛的网》图书详细信息</a> </h1>
   </header>
-  <nav>  <ul>    <li><a href="#">首页</a></li>    <li><a href="#">图书</a></li>    <li><a href="#">书评</a></li>    <li><a href="#">阅读推广</a></li>    <li><a href="#">在线阅读</a></li>    <li><a href="#">图书漂流</a></li>  </ul></nav>
-  <article>  <header>    <h1> <a href="#" rel="bookmark">《夏洛的网》图书详细信息</a> </h1>  </header><p>常用的标签：《夏洛的网》(18)  儿童文学(8)  小说(6)  好书(5)  童话(4)  爱(3)是谁(1)  校园生活(1) </p></article>
-  <aside>aside</aside>
-  <footer>  <p> 关于我们 | 广告服务 | 联系我们 | 人才招聘 | 网站地图<br/>    &copy; 2011 少年网. All rights reserved.</p></footer>
+    <p>常用的标签：《夏洛的网》(18)儿童文学</p>
+<section>
+  <header>
+      <h1>图书简介</h1>
+  </header>
+    <p>一只名叫威尔伯的小猪和一只叫<mark>夏洛</mark>的蜘蛛成为朋友。小猪未来的命运是成为圣诞节时的盘中大餐，这个悲凉的结果让威尔伯心惊胆寒。它也曾尝试过逃跑，但它毕竟是一只猪。看似渺小的<mark>夏洛</mark> 却说：“让我来帮你。”于是<mark>夏洛</mark>用它的网在猪棚中织出“王牌猪”、“朱克曼的名猪”等字样，那些被人类视为奇迹的字让威尔伯的命运整个逆转，终于得到了比赛的特别奖和一个安享天命的未来。但就在这时，蜘蛛<mark>夏洛</mark>的生命却走到了尽头……</p>
+   <figure><img src="assets/book.jpg" alt="夏洛的网封面图片" width="100"height="136" ><br/>
+   <figcaption>《夏洛的网》封面图片</figcaption>
+   </figure>
+    
+    <details>
+        <summary>主要章节</summary>
+        <menu>
+            <li>第一章 </li>
+            <li>第二章</li>
+            <command onclick="alert('first command')"  label="Do 1st Command"/>
+            <command onclick="alert('second command')" label="Do 2nd Command"/>
+            <command onclick="alert('third command')"  label="Do 3rd Command"/>
+        </menu>
+    </details>
+    <h1>我的阅读进度</h1>
+    <p><progress min="0" max="100" value="80"><span>50</span>%</progesss></p>
+    
+    <h1>成绩列表</h1>
+    <p><br/>
+        祝红涛: <meter value="65" min="0" max="100" low="60" high="80" title="65分"optimum="100">65</meter><br/>
+        张均焘: <meter value="85" min="0" max="100" low="60" high="80" title="85分"optimum="100">85</meter><br/>
+        侯艳书: <meter value="30" min="0" max="100" low="60" high="80" title="30分"optimum="100">30</meter><br/>
+        李丽霞: <meter value="93" min="0" max="100" low="60" high="80" title="93分"optimum="100">93</meter>
+    </p>
+    
+    <h3>是否显示详细信息</h3>
+    <input  type="radio"  onclick="test(1)"    value="1"    checked="checked"name="html5"/> 显示
+    <input type="radio" onclick="test(0)"  value="0" name="html5"/> 隐藏
+    <p><article id="art"> 蓝蓝的天空，飘着朵朵白云 </article></p>
+    <script>  function test(obj)  {
+    var isShow=(obj)?false:true;
+    var str=document.getElementById("art").hidden=isShow;
+    }</script>
+    
+    <body onload="showimg()">
+        <canvas id="can1" width="400px" height="400px"></canvas>
+    </body>
+    function rect (){var elem = document.getElementById("myCanvas"); //getContext("2d") 对象是内建的 HTML5 对象var context = elem.getContext("2d");context.strokeStyle = "#f00";    // redcontext.lineWidth= 4;       //线框宽度context.strokeRect(30, 25,  90, 60);}
+
+</section>
+
+
+</article>
+
+<aside>
+  <section>
+    <header>
+      <h1>其他信息</h1>
+      <p></p><input type="checkbox" checked/>已读</p>
+    </header>
+    <ul>
+      <li>作者：E.B.怀特</li>
+      <li>译者：任溶溶</li>
+      <li>ISBN：7532733416</li>
+      <li>页数：181</li>
+      <li>定价：17.00</li>
+      <li>出版社：上海译文出版社</li>
+      <li><a href="#">多看</a></li>
+      <li>出版时间：2004-05</li>
+    </ul>
+  </section>
+</aside>
+
+<footer>
+  <p> 关于我们 | 广告服务 | 联系我们 | 人才招聘 | 网站地图<br/>    &copy; 2011 少年网. All rights reserved.</p>
+</footer>
+
 </body>
 </html>
