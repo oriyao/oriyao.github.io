@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: post
 title: 函数(function)
 category: c
 ---
