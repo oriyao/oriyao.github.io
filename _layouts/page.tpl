@@ -9,9 +9,6 @@
 <title>{{ page.title }}</title>
 <link href="http://{{ site.host }}/feed.xml" rel="alternate" title="{{ site.name }}" type="application/atom+xml" />
 <link rel="stylesheet" href="../../css/oriyao.css"/>
-<link rel="stylesheet" href="../../css/github.css"/>
-<link rel="stylesheet" href="oriyao.css"/>
-<link rel="stylesheet" href="/assets/css/site.css" />
 </head>
 
 <body>
