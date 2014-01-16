@@ -16,12 +16,12 @@
   
     <nav>
         <ul>
-            <li><a href="#">首页</a></li>
-            <li><a href="#">BOOK</a></li>
-            <li><a href="#">CODE</a></li>
-            <li><a href="#">FILM</a></li>
-            <li><a href="#">NBA</a></li>
-            <li><a href="#">ZOOM</a></li>
+            <li><a href="www.oriyao.com">首页</a></li>
+            <li><a href="/category/b/">BOOK</a></li>
+            <li><a href="/category/c/">CODE</a></li>
+            <li><a href="/category/f/">FILM</a></li>
+            <li><a href="/category/n/">NBA</a></li>
+            <li><a href="/category/z/">ZOOM</a></li>
         </ul>
     </nav>
 
@@ -69,11 +69,6 @@
     var str=document.getElementById("art").hidden=isShow;
     }</script>
     
-    <body onload="showimg()">
-        <canvas id="can1" width="400px" height="400px"></canvas>
-    </body>
-    function rect (){var elem = document.getElementById("myCanvas"); //getContext("2d") 对象是内建的 HTML5 对象var context = elem.getContext("2d");context.strokeStyle = "#f00";    // redcontext.lineWidth= 4;       //线框宽度context.strokeRect(30, 25,  90, 60);}
-
 </section>
 
 
@@ -83,7 +78,9 @@
   <section>
     <header>
       <h1>其他信息</h1>
-      <p></p><input type="checkbox" checked/>已读</p>
+      <p></p><input type="checkbox" checked/>已读
+        <h1>评价</h1>
+    <p><progress min="0" max="100" value="80"><span>70</span>%</progesss></p>
     </header>
     <ul>
       <li>作者：E.B.怀特</li>
@@ -95,11 +92,26 @@
       <li><a href="#">多看</a></li>
       <li>出版时间：2004-05</li>
     </ul>
-  </section>
+
+<!-- Duoshuo Comment BEGIN -->
+    <div class="ds-thread"></div>
+        <script type="text/javascript">
+            var duoshuoQuery = {short_name:"oriyao"};
+	           (function() {
+		          var ds = document.createElement('script');
+                   ds.type = 'text/javascript';ds.async = true;
+                   ds.src = 'http://static.duoshuo.com/embed.js';
+                   ds.charset = 'UTF-8';
+                   (document.getElementsByTagName('head')[0] 
+                    || document.getElementsByTagName('body')[0]).appendChild(ds);
+               })();
+        </script>
+<!-- Duoshuo Comment END -->
+      </section>
 </aside>
 
 <footer>
-  <p> 关于我们 | 广告服务 | 联系我们 | 人才招聘 | 网站地图<br/>    &copy; 2011 少年网. All rights reserved.</p>
+  <p> 关于我们 | 广告服务 | 联系我们 | 人才招聘 | 网站地图<br/>    &copy; 2014 ORIYAO. All rights reserved.</p>
 </footer>
 
 </body>
