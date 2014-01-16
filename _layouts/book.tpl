@@ -34,40 +34,7 @@
   <header>
       <h1>图书简介</h1>
   </header>
-    <p>一只名叫威尔伯的小猪和一只叫<mark>夏洛</mark>的蜘蛛成为朋友。小猪未来的命运是成为圣诞节时的盘中大餐，这个悲凉的结果让威尔伯心惊胆寒。它也曾尝试过逃跑，但它毕竟是一只猪。看似渺小的<mark>夏洛</mark> 却说：“让我来帮你。”于是<mark>夏洛</mark>用它的网在猪棚中织出“王牌猪”、“朱克曼的名猪”等字样，那些被人类视为奇迹的字让威尔伯的命运整个逆转，终于得到了比赛的特别奖和一个安享天命的未来。但就在这时，蜘蛛<mark>夏洛</mark>的生命却走到了尽头……</p>
-   <figure><img src="assets/book.jpg" alt="夏洛的网封面图片" width="100"height="136" ><br/>
-   <figcaption>《夏洛的网》封面图片</figcaption>
-   </figure>
     {{ content }}
-    <details>
-        <summary>主要章节</summary>
-        <menu>
-            <li>第一章 </li>
-            <li>第二章</li>
-            <command onclick="alert('first command')"  label="Do 1st Command"/>
-            <command onclick="alert('second command')" label="Do 2nd Command"/>
-            <command onclick="alert('third command')"  label="Do 3rd Command"/>
-        </menu>
-    </details>
-    <h1>我的阅读进度</h1>
-    <p><progress min="0" max="100" value="80"><span>50</span>%</progesss></p>
-    
-    <h1>成绩列表</h1>
-    <p><br/>
-        祝红涛: <meter value="65" min="0" max="100" low="60" high="80" title="65分"optimum="100">65</meter><br/>
-        张均焘: <meter value="85" min="0" max="100" low="60" high="80" title="85分"optimum="100">85</meter><br/>
-        侯艳书: <meter value="30" min="0" max="100" low="60" high="80" title="30分"optimum="100">30</meter><br/>
-        李丽霞: <meter value="93" min="0" max="100" low="60" high="80" title="93分"optimum="100">93</meter>
-    </p>
-    
-    <h3>是否显示详细信息</h3>
-    <input  type="radio"  onclick="test(1)"    value="1"    checked="checked"name="html5"/> 显示
-    <input type="radio" onclick="test(0)"  value="0" name="html5"/> 隐藏
-    <p><article id="art"> 蓝蓝的天空，飘着朵朵白云 </article></p>
-    <script>  function test(obj)  {
-    var isShow=(obj)?false:true;
-    var str=document.getElementById("art").hidden=isShow;
-    }</script>
     
 </section>
 
