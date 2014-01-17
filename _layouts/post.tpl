@@ -8,7 +8,6 @@ pageClass: page-type-post
 <!--<div class="trace">/ <a href="/">{{ site.name }}</a> / {{ page.title }}</div>-->
 <article>
 	<!--<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>-->
-    <h1>{{ page.title }}</h1>
 	{% assign post = page %}
 	{% include meta.tpl %}
 	{{ content }}
