@@ -3,9 +3,8 @@ layout: post
 title: 远远的村庄
 category: b
 ---
-[多看](http://www.duokan.com/book/11662) [豆瓣](http://book.douban.com/subject/10736589/)
 
-这是一本写给大人看的“小人儿书”。
+>这是一本写给大人看的“小人儿书”。
 
 宁静的乡野，肆无忌惮自由生长的小时候，浪费在美好事物上的静谧光阴。
 
@@ -18,22 +17,19 @@ category: b
 值得注意的是，书中描绘的自然生态下的乡村生活正在消失，城市化正在毁灭农耕文明，“我们再也回不去了”，在这变化中的当下，也许，书写是最好的纪念。
 
 
-<img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/Books/%E8%BF%9C%E8%BF%9C%E7%9A%84%E6%9D%91%E5%BA%84%20%281%29.jpg" width="100%">
+<center><img class="cover" src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/Books/%E8%BF%9C%E8%BF%9C%E7%9A%84%E6%9D%91%E5%BA%84%20%281%29.jpg"></center>
 
 
 
-我的评价:太单纯了，太美了，就像，又回去了童年,一口气读完然后慢慢嘴角上扬的回想！
+>我的评价:太单纯了，太美了，就像，又回去了童年,一口气读完然后慢慢嘴角上扬的回想！
 
-作者: 宁远 
-
-出版社: 江苏文艺出版社
-
-出版年: 2012-5
-
-页数: 211
-
-定价: 30.00元
-
-ISBN: 9787539952604
+* 作者: 宁远 
+* 出版社: 江苏文艺出版社
+* 出版年: 2012-5
+* 页数: 211
+* 定价: 30.00元
+* ISBN: 9787539952604
+* 来源：[多看](http://www.duokan.com/book/11662) [豆瓣](http://book.douban.com/subject/10736589/)
+* 我的推荐指数 <progress min="0" max="100" value="850"></progesss>
 
 <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/Books/%E8%BF%9C%E8%BF%9C%E7%9A%84%E6%9D%91%E5%BA%84%20%282%29.jpg" width="100%">

@@ -8,29 +8,29 @@ category: n
 
 ##TO ALL OF MY FANS:
 
-I would like to announce my plans to retire from the National Basketball Association. I always thought that when I left the game, it would be because I couldn’t help my team the way that I was accustomed to. However, that is not the case.
+>I would like to announce my plans to retire from the National Basketball Association. I always thought that when I left the game, it would be because I couldn’t help my team the way that I was accustomed to. However, that is not the case.
 
-I still have tremendous love for the game, the desire to play, and a whole lot left in my tank. I feel strongly that I can still compete at the highest level.
+>I still have tremendous love for the game, the desire to play, and a whole lot left in my tank. I feel strongly that I can still compete at the highest level.
 
-Stepping away from the game will allow me to spend quality time with my wife and kids. This is a reward that far exceeds anything that I’ve ever achieved on the basketball court. I have prayed for this day and I see it as my greatest gift.
+>Stepping away from the game will allow me to spend quality time with my wife and kids. This is a reward that far exceeds anything that I’ve ever achieved on the basketball court. I have prayed for this day and I see it as my greatest gift.
 
-I want to thank the people of Reebok International Ltd., for always allowing me to be me and for supporting me my whole career through all the ups and downs. I have enjoyed 13 wonderful seasons in the NBA, and I am grateful.
+>I want to thank the people of Reebok International Ltd., for always allowing me to be me and for supporting me my whole career through all the ups and downs. I have enjoyed 13 wonderful seasons in the NBA, and I am grateful.
 
-I want to first acknowledge my fans everywhere, who have been with me throughout my entire career. Without you, there would be no me. You should all know that I appreciate your support from the bottom of my heart. Thank you!
+>I want to first acknowledge my fans everywhere, who have been with me throughout my entire career. Without you, there would be no me. You should all know that I appreciate your support from the bottom of my heart. Thank you!
 
-To Michael Jordan, Magic Johnson, Isiah Thomas, Charles Barkley and Larry Bird, you guys gave me the vision to play the game that will be forever in my heart.
+>To Michael Jordan, Magic Johnson, Isiah Thomas, Charles Barkley and Larry Bird, you guys gave me the vision to play the game that will be forever in my heart.
 
-To my Mom, who encouraged and inspired me to play every day, and to all of my family and friends who stood by me from the beginning. Thank you!
+>To my Mom, who encouraged and inspired me to play every day, and to all of my family and friends who stood by me from the beginning. Thank you!
 
-To my high school coach, Michael Bailey, Coach John Thompson at Georgetown University, Coach Larry Brown and to all of my other coaches, teammates, administrators, owners and staff who’ve been a part of my career, Thank you as well!
+>To my high school coach, Michael Bailey, Coach John Thompson at Georgetown University, Coach Larry Brown and to all of my other coaches, teammates, administrators, owners and staff who’ve been a part of my career, Thank you as well!
 
-I’d like to give a special thanks to the people of Memphis. I never played a home game for your beloved Grizzlies, but I want you to know how much I appreciate the opportunity given me by a great owner in Michael Heisley, and the support of the city. I wish the Memphis Grizzlies’ organization all of the success that the game has to offer.
+>I’d like to give a special thanks to the people of Memphis. I never played a home game for your beloved Grizzlies, but I want you to know how much I appreciate the opportunity given me by a great owner in Michael Heisley, and the support of the city. I wish the Memphis Grizzlies’ organization all of the success that the game has to offer.
 
-And finally, to the city of Philadelphia: I have wonderful memories of my days in a Sixers’ uniform. To Philly fans, thank you. Your voice will always be music to my ears.
+>And finally, to the city of Philadelphia: I have wonderful memories of my days in a Sixers’ uniform. To Philly fans, thank you. Your voice will always be music to my ears.
 
 ##God Bless all of you,
 
-###ALLEN IVERSON
+##ALLEN IVERSON
 
 <img src="http://oriyao.oss-cn-hangzhou.aliyuncs.com/website/201312/20131216175155.jpg" width="100%">
 
@@ -58,6 +58,6 @@ And finally, to the city of Philadelphia: I have wonderful memories of my days i
 
 ##上帝保佑所有人！
 
-###阿伦-艾弗森
+##阿伦-艾弗森
 
 

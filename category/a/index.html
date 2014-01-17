@@ -1,70 +1,43 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
+<!doctype html>
+<html lang="zh-cn">
+
 <head>
-<meta charset="utf-8" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />
 <meta name="author" content="{{ site.meta.author.name }}" />
 <meta name="keywords" content="{{ page.tags | join: ',' }}" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<title>主页</title>
-<link rel="stylesheet" type="text/css" href="/assets/css/site.css" />
+<title>{{ page.title }}</title>
+<link href="http://{{ site.host }}/feed.xml" rel="alternate" title="{{ site.name }}" type="application/atom+xml" />
+<link rel="stylesheet" href="../../css/oriyao.css"/>
 </head>
 
-<body class="{{ page.pageClass }}">
-
-<!--<base href=".">-->
-    <link rel="stylesheet" type="text/css" href="../../css/main-post.css" media="all">
-
-<!--网站导航区域-->
-<div class="clearfix navcontainer wp cl">
-    <!--标题图片-->
-    <div class="cl s_header">
-        <div class="logo">
-            <h1><a href="http://www.oriyao.com/" title="Oriyao 的主页" target="_blank">
-                <img src="../../images/logo.png" width="100%"></a>
-            </h1>
-        </div>
-    </div>
-    <!--导航条-->
-    <div class="nav cl">
-        <ul class="sf-menu sf-js-enabled sf-shadow">
+<body>
+    <header>
+        <h1><a href="http://www.oriyao.com/" title="Oriyao 的主页" target="_blank">
+            <img src="../../images/header.png" width="205px"></a> {{ page.title }}
+        </h1>
+    </header>
+  
+    <nav>
+        <ul>
+            <li><a href="#" target="_blank">首页</a></li>
             <li><a href="/category/b/" target="_blank">BOOK</a></li>
-            <li><a href="/category/f/" target="_blank">影视</a></li>
-            <li><a href="/category/c/" target="_blank">码农</a></li>
+            <li><a href="/category/c/" target="_blank">CODE</a></li>
+            <li><a href="/category/f/" target="_blank">FILM</a></li>
             <li><a href="/category/n/" target="_blank">NBA</a></li>
-            <li><a href="http://weibo.com/914502294/" target="_blank">微博</a></li>
-            <li><a href="/category/w/" target="_blank">网站</a></li>
             <li><a href="/category/z/" target="_blank">ZOOM</a></li>
-	    <li><a href="/category/t/" target="_blank">HTML5</a></li>
+            <li><a href="http://weibo.com/914502294/" target="_blank">微博</a></li>
         </ul>
-    </div>
-</div>
+    </nav>
 
-<!--网站正文区-->
-<div class="wp">
-         <center><div>
-                <img width="33%" height="250" src="../../images/book.png">
-                <img width="33%" height="250" src="../../images/film.png"> 
-                <img width="33%" height="250" src="../../images/zoom.png">
-        </div></center>
-        
-        <div class="ajax-select">
-          <ul class="sf-menu sf-js-enabled sf-shadow">
-            <li>
-                <a id="news_select" >最新更新</a>
-             </li>
-          </ul>
-        </div>   
-      
-<div class="container clearfix"> 
-        <div class="articlecontainer nonfeatured maincontent">
-            <div class="main">
-                <br>
-                {{ content }}
-            </div>
-    </div>
-<!-- Sidebar================================================== -->
-    <div class="sidebar">
-            <div class="socialwrap">
+<article>
+    <img width="33%" height="250" src="../../images/book.png">
+    <img width="33%" height="250" src="../../images/film.png"> 
+    <img width="33%" height="250" src="../../images/zoom.png">
+</article>
+
+<aside>
+<div class="socialwrap">
                <a style="text-decoration: none;" href="https://mail.google.com" target="_blank">
                    <span class="social-button-style">
                     <span class="button facebook-blue cell1 img">
@@ -96,56 +69,15 @@
                       </span>
             </a>
         </div>
-    </div>
+</aside>
 
-</div>
+<footer>
+    <center><div><img src="../../images/ft-logo.png" width="220px"></div></center>
+    <p></>关于我 | 广告服务 | 联系我<br/>ylzhangyao@gmail.com Powered by <em>oriyao</em> © 1988-2014</p>
+</footer>
 
-</div>
-    
-    
-<!-- Close Mainbody and Sitecontainer and start footer================================================== -->
-<div id="footer">
-
-    <div  id="ft" class="footerwidgetwrap">
-        <div class="footerwidget">
-            <div>
-                <img src="../../images/ft-logo.png">
-            </div>
-            <br>
-            <p>ylzhangyao@gmail.com</p>
-            <div>
-                <p>Powered by <em>oriyao</em> © 1988-2014</p>
-            </div>
-        </div>
-        
-    <div class="footerwidget">
-            <div id="recent-comments-3" class="widget widget_recent_comments">
-            <h3 class="widget-title">&nbsp;</h3>
-            
-            <ul id="recentcomments">
-            <li class="recentcomments"><a href="" target="_blank" class="url">关于我们</a>
-                <a href="" target="_blank">商务合作</a>
-                <a href="" target="_blank">广告合作</a>
-            </li>
-            <li class="recentcomments"><a href="4" class="url">新浪微博</a>
-                <a href="" class="url">多看书友</a>
-                <a href="" target="_blank">友情链接</a>
-            </li>
-            </ul>
-            </div>
-    </div>
-        
-    <div class="footerwidget">
-        <div  class="widget widget_tag_cloud">
-          <h3 class="widget-title">&nbsp;</h3>
-          <p> 
-             <img src="../../images/security.png">
-          </p>
-        </div>
-    </div>
-        
-    </div>
- </div>
-    
 </body>
 </html>
+
+
+
