@@ -1,166 +1,172 @@
-<!doctype html>
-<html lang="en">
-<head>
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
     <meta charset="utf-8">
-    <title>oriyao</title>
-    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" href="css/reveal.min.css">
-    <link rel="stylesheet" href="css/theme/default.css" id="theme">
-    <!-- For syntax highlighting -->
-    <link rel="stylesheet" href="lib/css/zenburn.css">
-    <!-- If the query includes 'print-pdf', use the PDF print sheet -->    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="oriyao-home-page">
+    <meta name="author" content="gbtags.com">
 
+    <title>Oriyao</title>
 
-		<script>
-			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
-		</script>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
 
-		<!--[if lt IE 9]>
-		<script src="lib/js/html5shiv.js"></script>
-		<![endif]-->
-</head>
+    <!-- Add custom CSS here -->
+    <link href="css/home-page.css" rel="stylesheet">
 
-<body>
-    <div class="reveal">
-	<!-- Any section element inside of this container is displayed as a slide -->
-	   <div class="slides">
-           <section>
-				<a href="/category/b/"><h1>WELCOME</h1></a>
-				<h3>Press this to master website!</h3>
-                <a href="#" class="image navigate-right">
-                <img width="128" height="128" src="./images/2013121301.png" alt="Right arrow">
-                </a>    
-				<p>	<small>微博 @<a href="http://weibo.com/914502294">oriyao</a></small></p>
-           </section>
+  </head>
 
-				<!-- Example of nested vertical slides -->
-				<section>
-                    <section>
-						<h2>主题</h2>
-						<p>按键查看各主题简介</p>
-						<a href="#" class="image navigate-down">
-							<img width="128" height="128" src="./images/2013121304.png" alt="Down arrow">
-						</a>
-					</section>
-                    
-					<section>
-						<h2>BOOK 读书</h2>
-						<p>但当涉猎，见往事尔</p>
-					</section>
-                    
-					<section>
-						<h2>C语言</h2>
-						<p>谷歌度娘之积累</p>
-                        <img width="100" height="100" src="./images/2013121306.gif">
-					</section>
-                    
-					<section>
-						<h2>FILM 影视</h2>
-						<p>你懂的</p>
-				        <img width="100" height="100" src="./images/2013121305.gif">                        
-					</section>
-                    
-                    <section>
-						<h2>Geek</h2>
-						<p>科技新数码</p>
-				        <img width="100" height="100" src="./images/2013121306.gif">                        
-					</section>
+  <body>
 
-					<section>
-						<h2>MOOC 公开课</h2>
-						<p>小伙伴们快来抄作业</p>
-				    <img width="100" height="100" src="./images/2013121307.gif">
-					</section>
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="present.html">ORIYAO</a>
+        </div>
 
-					<section>
-						<h2>NBA 篮球</h2>
-						<p>走起</p>
-				    <img width="143" height="159" src="./images/2013121308.gif">
-					</section>
-                    
-                    <section>
-						<h2>WEBSITE 网站建设</h2>
-						<p>所见即所得</p>
-				    <img width="100" height="100" src="./images/2013121309.gif">
-					</section>
-                    
-				</section>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right navbar-ex1-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="#about">关于</a></li>
+            <li><a href="#services">服务</a></li>
+            <li><a href="#contact">联系</a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container -->
+    </nav>
 
-				<section>
-					<section data-background="#007777">
-						<h2>其实背景是可以换的</h2>
-                        <audio controls="controls" autoplay="autoplay">
-                            <source src="file.ogg" />
-                            <source src="http://d3.s.hjfile.cn/2012/201208_5/5bd566a7-50b8-47d5-bd96-9b149e1a4851.mp3" />
-                        </audio>
-						<p>只是我不知道哪种好看</p>
-						<a href="#" class="image navigate-down">
-				<img width="178" height="238" src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
-						</a>
-					</section>
-					<section data-background="./images/2013121310.jpeg">
-						<h2>使用图片做背景呢？</h2>
-					</section>
-					<section data-background="./images/2013121311.jpg" data-background-repeat="repeat" data-background-size="200px">
-						<h2>要是密集恐惧怎么办？</h2>
-					</section>
-				</section>
-           
-                <section>
-					<h2>代码小黑板</h2>
-					<pre><code data-trim contenteditable>
+    <div class="intro-header">
 
-#include <stdio.h>
+      <div class="container">
+  
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="intro-message">
+              <h1>ORIYAO</h1>
+              <h3>读书*生活*编程</h3>
+              <hr class="intro-divider">
+              <ul class="list-inline intro-social-buttons">
+                <li><a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">BOOK</span></a></li>
+                <li><a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">CODE</span></a></li>
+                <li><a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">FILM</span></a></li>
+              </ul>
+            </div>	
+          </div>
+        </div>
+  
+      </div><!-- /.container -->
 
-int main(void)
-{
-    printf("hello world!\n");
-    return 0;
-}
-                    </code></pre>
-					<p>兄弟，你可以改的哦，当然保存就算了！</p>
-				</section>
+    </div><!-- /.intro-header -->
 
-				<section>
-					<h1>HAVE FUN</h1>
-                    <a href="/category/b/"><p>主页</p></a>
-					<h3>BY oriyao</h3>
-				</section>
+    <div class="content-section-a">
 
-			</div>
+      <div class="container">
+  
+        <div class="row">
+          <div class="col-lg-5 col-sm-6">
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <h2 class="section-heading">阅读生活: <br>Iapd KP</h2>
+            <p class="lead">2014年读书生活<a target="_blank" href="http://duokan.com/">Duokan</a></p>
+          </div>
+          <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+            <img class="img-responsive" src="img/ipad.png" alt="">
+          </div>
+        </div>
+  
+      </div><!-- /.container -->
 
-		</div>
+    </div><!-- /.content-section-a -->
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.min.js"></script>
+    <div class="content-section-b">
 
-		<script>
+      <div class="container">
+  
+        <div class="row">
+          <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <h2 class="section-heading">3D Device Mockups <br>by PSDCovers</h2>
+            <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by PSDCovers! <a target="_blank" href="http://www.psdcovers.com/">Visit their website</a> to download some of their awesome, free photoshop actions!</p>
+          </div>
+          <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+            <img class="img-responsive" src="img/doge.png" alt="">
+          </div>
+        </div>
+  
+      </div><!-- /.container -->
 
-			// Full list of configuration options available here:
-			// https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				controls: true,
-				progress: true,
-				history: true,
-				center: true,
+    </div><!-- /.content-section-b -->
 
-				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+    <div class="content-section-a">
 
-				// Optional libraries used to extend on reveal.js
-				dependencies: [
-					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
-				]
-			});
+      <div class="container">
+  
+        <div class="row">
+          <div class="col-lg-5 col-sm-6">
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <h2 class="section-heading">Google Web Fonts and<br> Font Awesome Icons</h2>
+            <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+          </div>
+          <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+            <img class="img-responsive" src="img/phones.png" alt="">
+          </div>
+        </div>
+  
+      </div><!-- /.container -->
 
-		</script>
-	</body>
+    </div><!-- /.content-section-a -->
+
+    <div class="banner">
+
+      <div class="container">
+  
+        <div class="row">
+          <div class="col-lg-6">
+            <h2>Connect to gbtags.com:</h2>
+          </div>
+          <div class="col-lg-6">
+            <ul class="list-inline banner-social-buttons">
+              <li><a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a></li>
+              <li><a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a></li>
+              <li><a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a></li>
+            </ul>
+          </div>
+        </div>
+  
+      </div><!-- /.container -->
+
+    </div><!-- /.banner -->
+    
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <ul class="list-inline">
+              <li><a href="#home">首页</a></li>
+              <li class="footer-menu-divider">&sdot;</li>
+              <li><a href="#about">关于</a></li>
+              <li class="footer-menu-divider">&sdot;</li>
+              <li><a href="#services">服务</a></li>
+              <li class="footer-menu-divider">&sdot;</li>
+              <li><a href="#contact">联系</a></li>
+            </ul>
+            <p class="copyright text-muted small">Copyright &copy; Your Company 2013. All Rights Reserved</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+
+  </body>
 </html>

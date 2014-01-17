@@ -20,13 +20,12 @@
   
     <nav>
         <ul>
-            <li><a href="#">首页</a></li>
-            <li><a href="/category/b/">BOOK</a></li>
-            <li><a href="/category/c/">CODE</a></li>
-            <li><a href="/category/f/">FILM</a></li>
-            <li><a href="/category/n/">NBA</a></li>
-            <li><a href="/category/z/">ZOOM</a></li>
-            <li><a href="http://weibo.com/914502294/" target="_blank">微博</a></li>
+            <li><a href="/category/b/" target="_blank">首页</a></li>
+            <li><a href="/category/b/" target="_blank">BOOK</a></li>
+            <li><a href="/category/c/" target="_blank">CODE</a></li>
+            <li><a href="/category/f/" target="_blank">FILM</a></li>
+            <li><a href="/category/n/" target="_blank">NBA</a></li>
+            <li><a href="/category/z/" target="_blank">ZOOM</a></li>
         </ul>
     </nav>
 
