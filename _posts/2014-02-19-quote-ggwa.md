@@ -1,6 +1,6 @@
 ---
 layout: post
-title:国家地理宣传文案
+title: 国家地理宣传文案
 category: q
 ---
 >If you are, you breathe.
