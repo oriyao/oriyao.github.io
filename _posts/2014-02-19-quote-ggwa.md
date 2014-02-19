@@ -1,7 +1,7 @@
 ---
 layout: post
 title:国家地理宣传文案
-category: quote
+category: q
 ---
 >If you are, you breathe.
 
