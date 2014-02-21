@@ -13,7 +13,7 @@ custom:
         a: a~z 索引
         b: BOOK 读书
         c: CODE 编程
-        d: Digital 数码
+        d: Diary
         e: English 英语
         f: FILM 影视
         g: Geek 极客
@@ -48,7 +48,7 @@ custom:
         title: C 语言
 
       - name: d
-        title: Digital 数码
+        title: Diary
         
       - name: e
         title: E
