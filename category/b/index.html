@@ -31,7 +31,7 @@ $(document).ready(function(){
 <li><a href="#icons-web">五星</a></li>
 <li><a href="#icons-text">四星</a></li>
 <li><a href="#icons-directional">三星</a></li>
-<li><a href="#icons-media">二星</a></li>
+<li><a href="#icons-media">更新</a></li>
 <li><a href="#icons-social">多看</a></li>
 <li><a href="#icons-medical">更新</a></li>
 </ul>
@@ -136,36 +136,13 @@ $(document).ready(function(){
     </ul>	
     </div>
 	</div>
-<!-- =======多看========== -->	
+<!-- =======更新========== -->	
 	<div id="icons-media" class="tab-content">
-	<div class="col_3">
-	 
-{% assign list = site.categories.b %}
+ 
+        {% assign list = site.categories.b %}
 
-{% include list.tpl %}
-    </div>
-    <div class="col_3">
-     <ul class="icons">
-      <li><i class="icon-step-backward"></i> icon-step-backward</li>
-      <li><i class="icon-fast-backward"></i> icon-fast-backward</li>
-      <li><i class="icon-backward"></i> icon-backward</li>
-      <li><i class="icon-forward"></i> icon-forward</li>
-    </ul>
-    </div>
-    <div class="col_3">
-    <ul class="icons">
-      <li><i class="icon-fast-forward"></i> icon-fast-forward</li>
-      <li><i class="icon-step-forward"></i> icon-step-forward</li>
-      <li><i class="icon-eject"></i> icon-eject</li>
-    </ul>
-    </div>
-    <div class="col_3">
-    <ul class="icons">
-      <li><i class="icon-fullscreen"></i> icon-fullscreen</li>
-      <li><i class="icon-resize-full"></i> icon-resize-full</li>
-      <li><i class="icon-resize-small"></i> icon-resize-small</li>
-    </ul>
-    </div>
+        {% include list.tpl %}
+
 	</div>
 <!-- =======更新========== -->	
 	<div id="icons-social" class="tab-content">
