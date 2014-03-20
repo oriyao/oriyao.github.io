@@ -34,7 +34,7 @@ custom:
         v: V
         w: Website 网站相关
         x: X
-        y: Y
+        y: Yate 亚特
         z: ZOOM 变焦
         
     categories:
@@ -111,7 +111,7 @@ custom:
         title: X
         
       - name: y
-        title: Yao
+        title: Yate
         
       - name: z
         title: 变焦
