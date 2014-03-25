@@ -3,7 +3,12 @@ layout: post
 title: 报任少卿书
 category: q
 ---
-#报任少卿书
+
+台湾大学吕世浩老师在Coursera上开设《史记》一课，听来受益匪浅，知道经典该怎么读，从史记开始，第一篇讲的是：太史公自序。
+
+而第二篇讲的却不是史记内的篇章，却是司马迁给任少卿的回信一封，这封信，字里行间可以看书，其实是司马迁写给自己的，直抒胸臆表出不得志向，读来涕泪俱下。大丈夫当如是！
+
+#<center>报任少卿书</center>
 
 <center><img src="http://www-oriyao-com.oss-cn-hangzhou.aliyuncs.com/2014/201403/simaq.jpg"></center>
 
