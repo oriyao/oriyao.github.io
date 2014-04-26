@@ -3,6 +3,150 @@ layout: list
 title:  C 语言
 ---
 
-{% assign list = site.categories.c %}
+<div class="grid">
 
-{% include list.tpl %}
+<!-- =============== -->
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	$('div[id^="icons-"] [class^="icon-"]').addClass('icon-2x');
+	
+});
+</script>
+
+<style type="text/css">
+#icon-description{border:1px solid #ddd;padding:20px;background:#fff;}
+#icon-description span{color:red;}
+</style>
+
+<ul class="tabs">
+<li><a href="#icons-web">心得</a></li>
+<li><a href="#icons-text">语言</a></li>
+<li><a href="#icons-directional">数据</a></li>
+<li><a href="#icons-media">算法</a></li>
+</ul>
+<!-- =======心得========== -->
+	<div id="icons-web" class="tab-content">
+    <!-- =======工具========== -->
+	<div class="col_3">
+	<ul class="icons">
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/devc.html">Dev-C++</a></li>
+    </ul>
+    </div>
+    <!-- =======搜集========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-matlab.html">MATLAB卡农</a></li>
+    </ul>
+    </div>
+    <!-- =======读书笔记========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- =======心得========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+	</div>
+<!-- =======语言========== -->	
+	<div id="icons-text" class="tab-content">
+    <!-- =======第一列========== -->
+	<div class="col_3">
+	<ul class="icons">
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-cscyy1.html">注释、输出显示</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-cscyy2.html">变量</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-cscyy3.html">输入</a></li>
+    </ul>
+    </div>
+    <!-- =======第二列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-cscyy5.html">数据类型</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-malloc.html">malloc和free</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-LinkedList.html">链表</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-linkedlist2.html">单链表功能大全</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-linkedlist3.html">链表的C语言实现</a></li>
+    </ul>
+    </div>
+    <!-- =======第三列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-if.html">if和switch</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-operator.html">运算符</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-array.html">数组</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-zz.html">征服C指针</a></li>
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- =======第四列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-function.html">函数</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-main.html">main</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-for.html">for和do</a></li>
+    </ul>
+    </div>
+	</div>
+<!-- =======数据========== -->	
+	<div id="icons-directional" class="tab-content">
+    <!-- =======第一列========== -->
+	<div class="col_3">
+	<ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- =======第一列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- =======第一列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- =======第一列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>	
+    </div>
+	</div>
+<!-- =======算法========== -->	
+	<div id="icons-media" class="tab-content">
+    <!-- =======第一列========== -->
+	<div class="col_3">
+	<ul class="icons">
+        {% assign list = site.categories.c %}
+
+        {% include list.tpl %}
+    </ul>
+    </div>
+    <!-- =======第二列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- =======第三列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- =======第四列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>	
+    </div>
+	</div>
+<!-- ================= -->	
+	
+</div><!--END GRID WRAP-->
