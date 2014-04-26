@@ -21,9 +21,10 @@ $(document).ready(function(){
 
 <ul class="tabs">
 <li><a href="#icons-web">心得</a></li>
-<li><a href="#icons-text">语言</a></li>
+<li><a href="#icons-c">C 语言</a></li>
 <li><a href="#icons-directional">数据</a></li>
 <li><a href="#icons-media">算法</a></li>
+<li><a href="#icons-others">其它</a></li>
 </ul>
 <!-- =======心得========== -->
 	<div id="icons-web" class="tab-content">
@@ -52,8 +53,8 @@ $(document).ready(function(){
     </ul>
     </div>
 	</div>
-<!-- =======语言========== -->	
-	<div id="icons-text" class="tab-content">
+<!-- =======c 语言========== -->	
+	<div id="icons-c" class="tab-content">
     <!-- =======第一列========== -->
 	<div class="col_3">
 	<ul class="icons">
@@ -75,7 +76,6 @@ $(document).ready(function(){
     <!-- =======第三列========== -->
     <div class="col_3">
     <ul class="icons">
-        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-if.html">if和switch</a></li>
         <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-operator.html">运算符</a></li>
         <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-array.html">数组</a></li>
         <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-zz.html">征服C指针</a></li>
@@ -88,6 +88,7 @@ $(document).ready(function(){
         <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-function.html">函数</a></li>
         <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-main.html">main</a></li>
         <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-for.html">for和do</a></li>
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/c-if.html">if和switch</a></li>
     </ul>
     </div>
 	</div>
@@ -123,9 +124,7 @@ $(document).ready(function(){
     <!-- =======第一列========== -->
 	<div class="col_3">
 	<ul class="icons">
-        {% assign list = site.categories.c %}
-
-        {% include list.tpl %}
+        <li><a target="_blank" class="button blue large" href=""></a></li>
     </ul>
     </div>
     <!-- =======第二列========== -->
@@ -146,6 +145,12 @@ $(document).ready(function(){
         <li><a target="_blank" class="button blue large" href=""></a></li>
     </ul>	
     </div>
+	</div>
+<!-- =======其他========== -->	
+	<div id="icons-others" class="tab-content">
+        {% assign list = site.categories.c %}
+
+        {% include list.tpl %}
 	</div>
 <!-- ================= -->	
 	
