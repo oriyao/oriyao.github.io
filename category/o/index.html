@@ -1,9 +1,89 @@
 ---
 layout: list
-title:  O
+title:  OPEN SOURCE
 ---
 
 
-{% assign list = site.categories.o %}
+<div class="grid">
 
-{% include list.tpl %}
+<!-- =============== -->
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	$('div[id^="icons-"] [class^="icon-"]').addClass('icon-2x');
+	
+});
+</script>
+
+<style type="text/css">
+#icon-description{border:1px solid #ddd;padding:20px;background:#fff;}
+#icon-description span{color:red;}
+</style>
+
+<ul class="tabs">
+<li><a href="#icons-learn">心得</a></li>
+<li><a href="#icons-search">搜集</a></li>
+</ul>
+<!-- =======心得========== -->
+	<div id="icons-learn" class="tab-content">
+    <!-- ================= -->
+	<div class="col_3">
+	<ul class="icons">
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/posts/opensource.html">开源</a></li>
+    </ul>
+    </div>
+    <!-- ================= -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- ================= -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- ================= -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+	</div>
+<!-- =======搜集========== -->	
+	<div id="icons-search" class="tab-content">
+    <!-- =======第一列========== -->
+	<div class="col_3">
+	<ul class="icons">
+        <li><a target="_blank" class="button blue large" href="http://oriyao.com/game_2048/2048">2048</a></li>
+    </ul>
+    </div>
+    <!-- =======第二列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- =======第三列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+    <!-- =======第四列========== -->
+    <div class="col_3">
+    <ul class="icons">
+        <li><a target="_blank" class="button blue large" href=""></a></li>
+    </ul>
+    </div>
+	</div>
+<!-- =======其他========== -->	
+	<div id="icons-others" class="tab-content">
+        {% assign list = site.categories.o %}
+
+        {% include list.tpl %}
+	</div>
+<!-- ================= -->	
+	
+</div><!--END GRID WRAP-->
