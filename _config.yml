@@ -24,7 +24,7 @@ custom:
         l: Lifestyle
         m: MOOC 公开课
         n: NBA 篮球
-        o: O
+        o: OpenSource 开源
         p: Physics 物理
         q: Quote 札记
         r: Remarks 搜集
@@ -81,7 +81,7 @@ custom:
         title: NBA
         
       - name: o
-        title: O
+        title: OpenSource
         
       - name: p
         title: Physics
