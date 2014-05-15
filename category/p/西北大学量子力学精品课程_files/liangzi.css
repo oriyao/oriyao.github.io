@@ -1,0 +1,68 @@
+/* CSS Document */
+
+body {
+margin:0px;
+color:#666666;
+font-size:12px;
+font-family:"";
+line-height:23px;
+}
+p {
+margin:0px;
+}
+form {
+margin:0px;
+}
+.bg {
+background-repeat:no-repeat;
+}
+.font {
+color:#DDFDFD;
+}
+.font1 {
+color:#efefef;
+line-height:23px;
+}
+.font2 {
+color:#001E7E;
+line-height:25px;
+}
+.font3 {
+color:#B9CBDC;
+}
+a:link {
+color:#666666;
+text-decoration:none;
+}
+a:visited {
+color:#666666;
+text-decoration:none;
+}
+a:hover {
+color:#023C75;
+text-decoration:none;
+}
+.a1:link {
+color:#efefef;
+text-decoration:none;
+}
+.a1:visited {
+color:#efefef;
+text-decoration:none;
+}
+.a1:hover {
+color:#00FFFF;
+text-decoration:none;
+}
+
+.border {
+border-bottom:#CCCCCC 1px dotted;
+line-height:28px;
+}
+td {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	color:#666666;
+	line-height:23px;
+}
