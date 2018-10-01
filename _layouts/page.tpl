@@ -54,7 +54,7 @@
 	<div class="grid">
         <a class="button blue large" href="http://www.weibo.com/oriyao/"><i class="icon-twitter"></i></a>
 		<a class="button blue large" href="ylzhangyao@gmail.com"><i class="icon-envelope-alt"></i></a></span><br />
-		<p>&copy;1988-2015 • oriyao</p>
+		<p>&copy;1988-2018 • oriyao</p>
 	</div>
 </div>
 <!-- ===================================== END FOOTER ===================================== -->
