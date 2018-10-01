@@ -36,6 +36,7 @@ custom:
         x: X
         y: Yate 亚特
         z: ZOOM 变焦
+        openstack: Openstack
         
     categories:
       - name:  openstack
