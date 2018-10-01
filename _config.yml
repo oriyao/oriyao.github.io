@@ -38,6 +38,9 @@ custom:
         z: ZOOM 变焦
         
     categories:
+      - name:  openstack
+        title: Openstack
+
       - name:  a
         title: A
         
