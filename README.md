@@ -1,12 +1,12 @@
-[![Build Status]()]()
+[![个人博客](www.openstack.top)]
 oriyao.github.io
 ================
 This is my personal webpage.
 
-## 2018/10/01 发起更新
 
+# 个人博客
+www.openstack.com
+FROM OPENSTACK TO TOP
 
-## 个人博客
-www.openstack.top
-
-
+## Architecture
+基于 `VM` + `Container` : `NGINX` + `uWSGI` + `FLASK`
